@@ -1,0 +1,2827 @@
+Archive member included to satisfy reference by file (symbol)
+
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(a36.o)
+                              src/psx/timer.o (EnterCriticalSection)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(a37.o)
+                              src/psx/timer.o (ExitCriticalSection)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(a91.o)
+                              src/psx/pad.o (ChangeClearPAD)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(counter.o)
+                              src/psx/timer.o (SetRCnt)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(l10.o)
+                              src/psx/timer.o (ChangeClearRCnt)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(pad.o)
+                              src/psx/pad.o (InitPAD)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(patch.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(pad.o) (_patch_pad)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(a18.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(pad.o) (InitPAD2)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(a19.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(pad.o) (StartPAD2)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(a21.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(pad.o) (PAD_init2)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(c68.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(patch.o) (FlushCache)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(chclrpad.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(pad.o) (_remove_ChgclrPAD)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(l02.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(pad.o) (SysEnqIntRP)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(l03.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(pad.o) (SysDeqIntRP)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libc2.a(memcpy.o)
+                              src/character/bf.o (memcpy)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libc2.a(memset.o)
+                              src/stage.o (memset)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libc2.a(printf.o)
+                              src/psx/io.o (printf)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libc2.a(prnt.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libc2.a(printf.o) (prnt)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libc2.a(putchar.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libc2.a(prnt.o) (_putchar)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libc2.a(sprintf.o)
+                              src/archive.o (sprintf)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libc2.a(strcpy.o)
+                              src/stage.o (strcpy)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libc2.a(strlen.o)
+                              src/font.o (strlen)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libc2.a(strncmp.o)
+                              src/archive.o (strncmp)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libc2.a(ctype_0.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libc2.a(prnt.o) (_ctype_)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libc2.a(memchr.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libc2.a(prnt.o) (memchr)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libc2.a(memmove.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libc2.a(sprintf.o) (memmove)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(cdr_1.o)
+                              src/psx/io.o (CdReadSync)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(event.o)
+                              src/psx/io.o (CdInit)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(iso9660.o)
+                              src/psx/io.o (CdSearchFile)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(s_002.o)
+                              src/psx/audio.o (CdIntToPos)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(s_003.o)
+                              src/psx/io.o (CdStatus)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(s_004.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(cdr_1.o) (CdMode)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(s_006.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(cdr_1.o) (CdLastPos)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(s_008.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(cdr_1.o) (CdFlush)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(s_013.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(cdr_1.o) (CdReady)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(s_014.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(cdr_1.o) (CdSyncCallback)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(s_015.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(cdr_1.o) (CdReadyCallback)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(s_016.o)
+                              src/psx/io.o (CdControl)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(s_020.o)
+                              src/psx/audio.o (CdMix)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(s_021.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(cdr_1.o) (CdGetSector)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(s_022.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(cdr_1.o) (CdGetSector2)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(s_023.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(cdr_1.o) (CdDataCallback)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(s_024.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(cdr_1.o) (CdDataSync)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(sys.o)
+                              src/psx/audio.o (CdPosToInt)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(bios_1.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(event.o) (CD_cbready)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(bios_2.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(s_021.o) (CD_getsector)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(bios_3.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(s_022.o) (CD_getsector2)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libetc.a(intr.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(s_023.o) (DMACallback)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libetc.a(intr_dma.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libetc.a(intr.o) (startIntrDMA)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libetc.a(intr_vb.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libetc.a(intr.o) (startIntrVSync)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libetc.a(vmode.o)
+                              src/psx/gfx.o (SetVideoMode)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libetc.a(vsync.o)
+                              src/psx/gfx.o (VSync)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libgpu.a(e03.o)
+                              src/psx/gfx.o (SetDefDrawEnv)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libgpu.a(e04.o)
+                              src/psx/gfx.o (SetDefDispEnv)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libgpu.a(font.o)
+                              src/psx/gfx.o (FntFlush)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libgpu.a(p06.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libgpu.a(font.o) (AddPrim)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libgpu.a(p09.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libgpu.a(font.o) (TermPrim)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libgpu.a(p10.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libgpu.a(font.o) (SetSemiTrans)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libgpu.a(p20.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libgpu.a(font.o) (SetSprt8)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libgpu.a(p26.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libgpu.a(font.o) (SetTile)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libgpu.a(p41.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libgpu.a(font.o) (SetDrawMode)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libgpu.a(sys.o)
+                              src/psx/gfx.o (LoadImage)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libgpu.a(t00.o)
+                              src/psx/gfx.o (ReadTIM)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libgpu.a(e00.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libgpu.a(font.o) (LoadTPage)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libgpu.a(e02.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libgpu.a(font.o) (LoadClut2)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libgpu.a(p00.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libgpu.a(e00.o) (GetTPage)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libgpu.a(p01.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libgpu.a(e02.o) (GetClut)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(ssinit_c.o)
+                              src/psx/audio.o (SsInit)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(sssv.o)
+                              src/psx/audio.o (SsSetSerialVol)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(sstick.o)
+                              src/psx/gfx.o (SsSetTickMode)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(ssinit.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(ssinit_c.o) (_SsInit)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(ssstart.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(sstick.o) (_snd_seq_tick_env)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(vm_init.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(ssinit.o) (_SsVmInit)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(vm_nowof.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(vm_init.o) (_SsVmKeyOffNow)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(sscall.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(ssstart.o) (SsSeqCalledTbyT)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(ssstop.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(sscall.o) (_SsSndStop)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(tempo.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(sscall.o) (_SsSndTempo)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(vm_doff.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(ssstop.o) (_SsVmDamperOff)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(vm_f.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(vm_init.o) (_svm_okon2)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(vm_g.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(vm_init.o) (_svm_rattr)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(vm_seq.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(ssstop.o) (_SsVmSeqKeyOff)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(vm_vsu.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(vm_seq.o) (_SsVmVSetUp)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(cres.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(sscall.o) (_SsSndCrescendo)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(pause.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(sscall.o) (_SsSndPause)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(play.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(sscall.o) (_SsSndPlay)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(replay.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(sscall.o) (_SsSndReplay)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(midiread.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(play.o) (_SsSeqPlay)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(miditime.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(midiread.o) (_SsReadDeltaValue)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(next.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(midiread.o) (_SsSndNextSep)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_crwa.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(ssinit_c.o) (SpuClearReverbWorkArea)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_gnv.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(vm_f.o) (SpuGetNoiseVoice)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_grv.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(vm_f.o) (SpuGetReverbVoice)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_gvex.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(vm_f.o) (SpuGetVoiceEnvelope)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_i.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(ssinit_c.o) (SpuInit)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_ini.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_crwa.o) (_spu_EVdma)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_it.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(vm_init.o) (_spu_setInTransfer)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_m.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_ini.o) (_spu_memList)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_m_init.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(vm_init.o) (SpuInitMalloc)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_m_util.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_crwa.o) (_SpuIsInAllocateArea_)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_rmp0.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_crwa.o) (_spu_rev_startaddr)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_sca.o)
+                              src/psx/audio.o (SpuSetCommonAttr)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_sk.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(vm_f.o) (SpuSetKey)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_snv.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(vm_f.o) (SpuSetNoiseVoice)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_srv.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(vm_f.o) (SpuSetReverbVoice)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_sva.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(vm_init.o) (SpuSetVoiceAttr)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(spu.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_sva.o) (_spu_FsetRXXa)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(zerobuf.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_crwa.o) (_spu_zerobuf)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_dcb.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_ini.o) (_SpuDataCallback)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_gav.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_gnv.o) (_SpuGetAnyVoice)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_n2p.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_sva.o) (_spu_note2pitch)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_sav.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_snv.o) (_SpuSetAnyVoice)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(a07.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(event.o) (DeliverEvent)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(a08.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_ini.o) (OpenEvent)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(a10.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_crwa.o) (WaitEvent)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(a12.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_ini.o) (EnableEvent)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(a23.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libetc.a(intr.o) (ReturnFromException)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(a24.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libetc.a(intr.o) (ResetEntryInt)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(a25.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libetc.a(intr.o) (HookEntryInt)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(a53.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libc2.a(putchar.o) (write)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(c114.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libetc.a(intr.o) (_96_remove)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(c73.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libgpu.a(sys.o) (GPU_cw)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libc2.a(puts.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(cdr_1.o) (puts)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libc2.a(setjmp.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libetc.a(intr.o) (setjmp)
+C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libc2.a(strcmp.o)
+                              C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(iso9660.o) (strcmp)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 src/main.o
+ .data          0x0000000000000000        0x0 src/main.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/main.o
+ .pdr           0x0000000000000000       0x40 src/main.o
+ .text          0x0000000000000000        0x0 src/mem.o
+ .data          0x0000000000000000        0x0 src/mem.o
+ .bss           0x0000000000000000        0x0 src/mem.o
+ .reginfo       0x0000000000000000       0x18 src/mem.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/mem.o
+ .pdr           0x0000000000000000       0x60 src/mem.o
+ .text          0x0000000000000000        0x0 src/mutil.o
+ .data          0x0000000000000000        0x0 src/mutil.o
+ .bss           0x0000000000000000        0x0 src/mutil.o
+ .reginfo       0x0000000000000000       0x18 src/mutil.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/mutil.o
+ .pdr           0x0000000000000000       0x60 src/mutil.o
+ .text          0x0000000000000000        0x0 src/random.o
+ .data          0x0000000000000000        0x0 src/random.o
+ .bss           0x0000000000000000        0x0 src/random.o
+ .reginfo       0x0000000000000000       0x18 src/random.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/random.o
+ .pdr           0x0000000000000000       0xc0 src/random.o
+ .text.RandomSeed
+                0x0000000000000000        0xc src/random.o
+ .text.RandomGetSeed
+                0x0000000000000000       0x10 src/random.o
+ .text.Random16
+                0x0000000000000000       0x4c src/random.o
+ .text.Random32
+                0x0000000000000000       0x80 src/random.o
+ .text          0x0000000000000000        0x0 src/archive.o
+ .data          0x0000000000000000        0x0 src/archive.o
+ .bss           0x0000000000000000        0x0 src/archive.o
+ .reginfo       0x0000000000000000       0x18 src/archive.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/archive.o
+ .pdr           0x0000000000000000       0x20 src/archive.o
+ .text          0x0000000000000000        0x0 src/font.o
+ .data          0x0000000000000000        0x0 src/font.o
+ .bss           0x0000000000000000        0x0 src/font.o
+ .reginfo       0x0000000000000000       0x18 src/font.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/font.o
+ .pdr           0x0000000000000000       0xc0 src/font.o
+ .text          0x0000000000000000        0x0 src/trans.o
+ .data          0x0000000000000000        0x0 src/trans.o
+ .bss           0x0000000000000000        0x0 src/trans.o
+ .reginfo       0x0000000000000000       0x18 src/trans.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/trans.o
+ .pdr           0x0000000000000000       0xa0 src/trans.o
+ .text          0x0000000000000000        0x0 src/loadscr.o
+ .data          0x0000000000000000        0x0 src/loadscr.o
+ .bss           0x0000000000000000        0x0 src/loadscr.o
+ .reginfo       0x0000000000000000       0x18 src/loadscr.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/loadscr.o
+ .pdr           0x0000000000000000       0x40 src/loadscr.o
+ .text          0x0000000000000000        0x0 src/menu.o
+ .reginfo       0x0000000000000000       0x18 src/menu.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/menu.o
+ .pdr           0x0000000000000000       0xc0 src/menu.o
+ .text.Menu_Unload
+                0x0000000000000000       0x10 src/menu.o
+ .text.Menu_ToStage
+                0x0000000000000000       0x2c src/menu.o
+ .text          0x0000000000000000        0x0 src/stage.o
+ .data          0x0000000000000000        0x0 src/stage.o
+ .reginfo       0x0000000000000000       0x18 src/stage.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/stage.o
+ .pdr           0x0000000000000000      0x1c0 src/stage.o
+ .text          0x0000000000000000        0x0 src/psx/psx.o
+ .data          0x0000000000000000        0x0 src/psx/psx.o
+ .bss           0x0000000000000000        0x0 src/psx/psx.o
+ .reginfo       0x0000000000000000       0x18 src/psx/psx.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/psx/psx.o
+ .pdr           0x0000000000000000       0x60 src/psx/psx.o
+ .text          0x0000000000000000        0x0 src/psx/io.o
+ .data          0x0000000000000000        0x0 src/psx/io.o
+ .bss           0x0000000000000000        0x0 src/psx/io.o
+ .reginfo       0x0000000000000000       0x18 src/psx/io.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/psx/io.o
+ .pdr           0x0000000000000000      0x140 src/psx/io.o
+ .text.IO_ReadFile
+                0x0000000000000000       0xb8 src/psx/io.o
+ .text.IO_AsyncRead
+                0x0000000000000000      0x108 src/psx/io.o
+ .text.IO_IsSeeking
+                0x0000000000000000       0x34 src/psx/io.o
+ .text          0x0000000000000000        0x0 src/psx/gfx.o
+ .data          0x0000000000000000        0x0 src/psx/gfx.o
+ .reginfo       0x0000000000000000       0x18 src/psx/gfx.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/psx/gfx.o
+ .pdr           0x0000000000000000      0x1e0 src/psx/gfx.o
+ .text.Gfx_DrawTexArbCol
+                0x0000000000000000      0x174 src/psx/gfx.o
+ .text          0x0000000000000000        0x0 src/psx/audio.o
+ .reginfo       0x0000000000000000       0x18 src/psx/audio.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/psx/audio.o
+ .pdr           0x0000000000000000      0x1a0 src/psx/audio.o
+ .text.Audio_PauseXA
+                0x0000000000000000       0x34 src/psx/audio.o
+ .text.Audio_TellXA_Sector
+                0x0000000000000000       0x18 src/psx/audio.o
+ .text          0x0000000000000000        0x0 src/psx/pad.o
+ .data          0x0000000000000000        0x0 src/psx/pad.o
+ .reginfo       0x0000000000000000       0x18 src/psx/pad.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/psx/pad.o
+ .pdr           0x0000000000000000       0x60 src/psx/pad.o
+ .text          0x0000000000000000        0x0 src/psx/timer.o
+ .data          0x0000000000000000        0x0 src/psx/timer.o
+ .bss           0x0000000000000000        0x0 src/psx/timer.o
+ .reginfo       0x0000000000000000       0x18 src/psx/timer.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/psx/timer.o
+ .pdr           0x0000000000000000       0x80 src/psx/timer.o
+ .text          0x0000000000000000        0x0 src/psx/movie.o
+ .data          0x0000000000000000        0x0 src/psx/movie.o
+ .bss           0x0000000000000000        0x0 src/psx/movie.o
+ .reginfo       0x0000000000000000       0x18 src/psx/movie.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/psx/movie.o
+ .pdr           0x0000000000000000       0x20 src/psx/movie.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/psx/movie.o
+ .text.Movie_Play
+                0x0000000000000000        0x8 src/psx/movie.o
+ .debug_info    0x0000000000000000       0xc6 src/psx/movie.o
+ .debug_abbrev  0x0000000000000000       0x86 src/psx/movie.o
+ .debug_aranges
+                0x0000000000000000       0x20 src/psx/movie.o
+ .debug_rnglists
+                0x0000000000000000       0x13 src/psx/movie.o
+ .debug_line    0x0000000000000000       0xaf src/psx/movie.o
+ .debug_str     0x0000000000000000      0x1dd src/psx/movie.o
+ .comment       0x0000000000000000       0x13 src/psx/movie.o
+ .debug_frame   0x0000000000000000       0x20 src/psx/movie.o
+ .gnu.attributes
+                0x0000000000000000       0x10 src/psx/movie.o
+ .text          0x0000000000000000        0x0 src/stage/dummy.o
+ .data          0x0000000000000000        0x0 src/stage/dummy.o
+ .bss           0x0000000000000000        0x0 src/stage/dummy.o
+ .reginfo       0x0000000000000000       0x18 src/stage/dummy.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/stage/dummy.o
+ .pdr           0x0000000000000000       0x40 src/stage/dummy.o
+ .text          0x0000000000000000        0x0 src/stage/week1.o
+ .data          0x0000000000000000        0x0 src/stage/week1.o
+ .bss           0x0000000000000000        0x0 src/stage/week1.o
+ .reginfo       0x0000000000000000       0x18 src/stage/week1.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/stage/week1.o
+ .pdr           0x0000000000000000       0x60 src/stage/week1.o
+ .text          0x0000000000000000        0x0 src/stage/week2.o
+ .data          0x0000000000000000        0x0 src/stage/week2.o
+ .bss           0x0000000000000000        0x0 src/stage/week2.o
+ .reginfo       0x0000000000000000       0x18 src/stage/week2.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/stage/week2.o
+ .pdr           0x0000000000000000       0x60 src/stage/week2.o
+ .text          0x0000000000000000        0x0 src/stage/week3.o
+ .data          0x0000000000000000        0x0 src/stage/week3.o
+ .bss           0x0000000000000000        0x0 src/stage/week3.o
+ .reginfo       0x0000000000000000       0x18 src/stage/week3.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/stage/week3.o
+ .pdr           0x0000000000000000       0x80 src/stage/week3.o
+ .text.Back_Week3_Window
+                0x0000000000000000       0x68 src/stage/week3.o
+ .text          0x0000000000000000        0x0 src/stage/week4.o
+ .data          0x0000000000000000        0x0 src/stage/week4.o
+ .bss           0x0000000000000000        0x0 src/stage/week4.o
+ .reginfo       0x0000000000000000       0x18 src/stage/week4.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/stage/week4.o
+ .pdr           0x0000000000000000       0xe0 src/stage/week4.o
+ .text.Week4_Henchmen_Draw
+                0x0000000000000000       0xb4 src/stage/week4.o
+ .text          0x0000000000000000        0x0 src/stage/week5.o
+ .data          0x0000000000000000        0x0 src/stage/week5.o
+ .bss           0x0000000000000000        0x0 src/stage/week5.o
+ .reginfo       0x0000000000000000       0x18 src/stage/week5.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/stage/week5.o
+ .pdr           0x0000000000000000       0x60 src/stage/week5.o
+ .text          0x0000000000000000        0x0 src/stage/week7.o
+ .data          0x0000000000000000        0x0 src/stage/week7.o
+ .bss           0x0000000000000000        0x0 src/stage/week7.o
+ .reginfo       0x0000000000000000       0x18 src/stage/week7.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/stage/week7.o
+ .pdr           0x0000000000000000       0x80 src/stage/week7.o
+ .text          0x0000000000000000        0x0 src/animation.o
+ .data          0x0000000000000000        0x0 src/animation.o
+ .bss           0x0000000000000000        0x0 src/animation.o
+ .reginfo       0x0000000000000000       0x18 src/animation.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/animation.o
+ .pdr           0x0000000000000000       0x80 src/animation.o
+ .text          0x0000000000000000        0x0 src/character.o
+ .data          0x0000000000000000        0x0 src/character.o
+ .bss           0x0000000000000000        0x0 src/character.o
+ .reginfo       0x0000000000000000       0x18 src/character.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/character.o
+ .pdr           0x0000000000000000       0xc0 src/character.o
+ .text          0x0000000000000000        0x0 src/character/bf.o
+ .bss           0x0000000000000000        0x0 src/character/bf.o
+ .reginfo       0x0000000000000000       0x18 src/character/bf.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/character/bf.o
+ .pdr           0x0000000000000000       0xa0 src/character/bf.o
+ .text          0x0000000000000000        0x0 src/character/bfweeb.o
+ .bss           0x0000000000000000        0x0 src/character/bfweeb.o
+ .reginfo       0x0000000000000000       0x18 src/character/bfweeb.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/character/bfweeb.o
+ .pdr           0x0000000000000000       0xa0 src/character/bfweeb.o
+ .text          0x0000000000000000        0x0 src/character/speaker.o
+ .data          0x0000000000000000        0x0 src/character/speaker.o
+ .bss           0x0000000000000000        0x0 src/character/speaker.o
+ .reginfo       0x0000000000000000       0x18 src/character/speaker.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/character/speaker.o
+ .pdr           0x0000000000000000       0x60 src/character/speaker.o
+ .text          0x0000000000000000        0x0 src/character/dad.o
+ .data          0x0000000000000000        0x0 src/character/dad.o
+ .bss           0x0000000000000000        0x0 src/character/dad.o
+ .reginfo       0x0000000000000000       0x18 src/character/dad.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/character/dad.o
+ .pdr           0x0000000000000000       0xa0 src/character/dad.o
+ .text          0x0000000000000000        0x0 src/character/spook.o
+ .data          0x0000000000000000        0x0 src/character/spook.o
+ .bss           0x0000000000000000        0x0 src/character/spook.o
+ .reginfo       0x0000000000000000       0x18 src/character/spook.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/character/spook.o
+ .pdr           0x0000000000000000       0xa0 src/character/spook.o
+ .text          0x0000000000000000        0x0 src/character/pico.o
+ .data          0x0000000000000000        0x0 src/character/pico.o
+ .bss           0x0000000000000000        0x0 src/character/pico.o
+ .reginfo       0x0000000000000000       0x18 src/character/pico.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/character/pico.o
+ .pdr           0x0000000000000000       0xa0 src/character/pico.o
+ .text          0x0000000000000000        0x0 src/character/mom.o
+ .data          0x0000000000000000        0x0 src/character/mom.o
+ .bss           0x0000000000000000        0x0 src/character/mom.o
+ .reginfo       0x0000000000000000       0x18 src/character/mom.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/character/mom.o
+ .pdr           0x0000000000000000       0xa0 src/character/mom.o
+ .text          0x0000000000000000        0x0 src/character/xmasp.o
+ .data          0x0000000000000000        0x0 src/character/xmasp.o
+ .bss           0x0000000000000000        0x0 src/character/xmasp.o
+ .reginfo       0x0000000000000000       0x18 src/character/xmasp.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/character/xmasp.o
+ .pdr           0x0000000000000000       0xa0 src/character/xmasp.o
+ .text          0x0000000000000000        0x0 src/character/senpai.o
+ .data          0x0000000000000000        0x0 src/character/senpai.o
+ .bss           0x0000000000000000        0x0 src/character/senpai.o
+ .reginfo       0x0000000000000000       0x18 src/character/senpai.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/character/senpai.o
+ .pdr           0x0000000000000000       0xa0 src/character/senpai.o
+ .text          0x0000000000000000        0x0 src/character/senpaim.o
+ .data          0x0000000000000000        0x0 src/character/senpaim.o
+ .bss           0x0000000000000000        0x0 src/character/senpaim.o
+ .reginfo       0x0000000000000000       0x18 src/character/senpaim.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/character/senpaim.o
+ .pdr           0x0000000000000000       0xa0 src/character/senpaim.o
+ .text          0x0000000000000000        0x0 src/character/tank.o
+ .data          0x0000000000000000        0x0 src/character/tank.o
+ .bss           0x0000000000000000        0x0 src/character/tank.o
+ .reginfo       0x0000000000000000       0x18 src/character/tank.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/character/tank.o
+ .pdr           0x0000000000000000       0xa0 src/character/tank.o
+ .text          0x0000000000000000        0x0 src/character/gf.o
+ .data          0x0000000000000000        0x0 src/character/gf.o
+ .bss           0x0000000000000000        0x0 src/character/gf.o
+ .reginfo       0x0000000000000000       0x18 src/character/gf.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/character/gf.o
+ .pdr           0x0000000000000000       0xa0 src/character/gf.o
+ .text          0x0000000000000000        0x0 src/character/clucky.o
+ .data          0x0000000000000000        0x0 src/character/clucky.o
+ .bss           0x0000000000000000        0x0 src/character/clucky.o
+ .reginfo       0x0000000000000000       0x18 src/character/clucky.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/character/clucky.o
+ .pdr           0x0000000000000000       0xa0 src/character/clucky.o
+ .text          0x0000000000000000        0x0 src/object.o
+ .data          0x0000000000000000        0x0 src/object.o
+ .bss           0x0000000000000000        0x0 src/object.o
+ .reginfo       0x0000000000000000       0x18 src/object.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/object.o
+ .pdr           0x0000000000000000       0x80 src/object.o
+ .text.ObjectList_Remove
+                0x0000000000000000       0x68 src/object.o
+ .text          0x0000000000000000        0x0 src/object/combo.o
+ .data          0x0000000000000000        0x0 src/object/combo.o
+ .bss           0x0000000000000000        0x0 src/object/combo.o
+ .reginfo       0x0000000000000000       0x18 src/object/combo.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/object/combo.o
+ .pdr           0x0000000000000000       0x80 src/object/combo.o
+ .text          0x0000000000000000        0x0 src/object/splash.o
+ .data          0x0000000000000000        0x0 src/object/splash.o
+ .bss           0x0000000000000000        0x0 src/object/splash.o
+ .reginfo       0x0000000000000000       0x18 src/object/splash.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/object/splash.o
+ .pdr           0x0000000000000000       0x60 src/object/splash.o
+ .text          0x0000000000000000        0x0 mips/common/crt0/crt0.o
+ .data          0x0000000000000000        0x0 mips/common/crt0/crt0.o
+ .bss           0x0000000000000000        0x0 mips/common/crt0/crt0.o
+ .reginfo       0x0000000000000000       0x18 mips/common/crt0/crt0.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 mips/common/crt0/crt0.o
+ .text          0x0000000000000000      0x310 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(ssstart.o)
+ .data          0x0000000000000000       0x10 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libc2.a(puts.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+loader           0x000000008000f800 0x0000000000000800
+ram              0x0000000080010000 0x00000000001f0000 xrw
+dcache           0x000000001f800000 0x0000000000000400
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD src/main.o
+LOAD src/mem.o
+LOAD src/mutil.o
+LOAD src/random.o
+LOAD src/archive.o
+LOAD src/font.o
+LOAD src/trans.o
+LOAD src/loadscr.o
+LOAD src/menu.o
+LOAD src/stage.o
+LOAD src/psx/psx.o
+LOAD src/psx/io.o
+LOAD src/psx/gfx.o
+LOAD src/psx/audio.o
+LOAD src/psx/pad.o
+LOAD src/psx/timer.o
+LOAD src/psx/movie.o
+LOAD src/stage/dummy.o
+LOAD src/stage/week1.o
+LOAD src/stage/week2.o
+LOAD src/stage/week3.o
+LOAD src/stage/week4.o
+LOAD src/stage/week5.o
+LOAD src/stage/week7.o
+LOAD src/animation.o
+LOAD src/character.o
+LOAD src/character/bf.o
+LOAD src/character/bfweeb.o
+LOAD src/character/speaker.o
+LOAD src/character/dad.o
+LOAD src/character/spook.o
+LOAD src/character/pico.o
+LOAD src/character/mom.o
+LOAD src/character/xmasp.o
+LOAD src/character/senpai.o
+LOAD src/character/senpaim.o
+LOAD src/character/tank.o
+LOAD src/character/gf.o
+LOAD src/character/clucky.o
+LOAD src/object.o
+LOAD src/object/combo.o
+LOAD src/object/splash.o
+LOAD mips/common/crt0/crt0.o
+START GROUP
+LOAD C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a
+LOAD C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libc2.a
+LOAD C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a
+LOAD C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libds.a
+LOAD C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libetc.a
+LOAD C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libgpu.a
+LOAD C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libpad.a
+LOAD C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libpress.a
+LOAD C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a
+LOAD C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a
+END GROUP
+                0x00000000801feda4                __heap_base = __bss_end
+                0x0000000080010000                TLOAD_ADDR = DEFINED (TLOAD_ADDR)?TLOAD_ADDR:0x80010000
+                0x0000000080200000                __ram_top = (ORIGIN (ram) + LENGTH (ram))
+                0x00000000801fff00                __sp = (__ram_top - 0x100)
+                0x000000001f800000                __dcache = ORIGIN (dcache)
+                0x000000001f800400                __dcache_top = (ORIGIN (dcache) + LENGTH (dcache))
+                0x00000000001c9da4                __bss_len = (__bss_end - __bss_start)
+                0x000000000001e1b0                __ftext_len = (__ftext_end - __ftext_start)
+                0x0000000000006e50                __fdata_len = (__fdata_end - __fdata_start)
+                0x0000000080200000                __stack_start = (ORIGIN (ram) + LENGTH (ram))
+
+.PSX_EXE_Header
+                0x000000008000f800      0x800
+                0x000000008000f800        0x1 BYTE 0x50
+                0x000000008000f801        0x1 BYTE 0x53
+                0x000000008000f802        0x1 BYTE 0x2d
+                0x000000008000f803        0x1 BYTE 0x58
+                0x000000008000f804        0x1 BYTE 0x20
+                0x000000008000f805        0x1 BYTE 0x45
+                0x000000008000f806        0x1 BYTE 0x58
+                0x000000008000f807        0x1 BYTE 0x45
+                0x000000008000f808        0x4 LONG 0x0
+                0x000000008000f80c        0x4 LONG 0x0
+                0x000000008000f810        0x4 LONG 0x80010000 ABSOLUTE (_start)
+                0x000000008000f814        0x4 LONG 0x0
+                0x000000008000f818        0x4 LONG 0x80010000 TLOAD_ADDR
+                0x000000008000f81c        0x4 LONG 0x25000 (__ftext_len + __fdata_len)
+                0x000000008000f820        0x4 LONG 0x0
+                0x000000008000f824        0x4 LONG 0x0
+                0x000000008000f828        0x4 LONG 0x0
+                0x000000008000f82c        0x4 LONG 0x0
+                0x000000008000f830        0x4 LONG 0x801fff00 DEFINED (_sp)?ABSOLUTE (_sp):0x801fff00
+                0x000000008000f834        0x4 LONG 0x0
+                0x0000000080010000                . = (. + 0x7c8)
+ *fill*         0x000000008000f838      0x7c8 
+                0x0000000080010000                __ftext_start = ABSOLUTE (.)
+
+.text           0x0000000080010000    0x1e1b0
+ *(.start)
+ .start         0x0000000080010000       0x64 mips/common/crt0/crt0.o
+                0x0000000080010000                _start
+ *(.init)
+ *(SORT_NONE(.fini))
+ *(.text.unlikely .text.*_unlikely .text.unlikely.*)
+ *(.text.exit .text.exit.*)
+ *(.text.startup .text.startup.*)
+ .text.startup.main
+                0x0000000080010064      0x120 src/main.o
+                0x0000000080010064                main
+ *(.text.hot .text.hot.*)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text.ErrorLock
+                0x0000000080010184       0x3c src/main.o
+                0x0000000080010184                ErrorLock
+ .text.Mem_Init
+                0x00000000800101c0       0x58 src/mem.o
+                0x00000000800101c0                Mem_Init
+ .text.Mem_Alloc
+                0x0000000080010218       0xe8 src/mem.o
+                0x0000000080010218                Mem_Alloc
+ .text.Mem_Free
+                0x0000000080010300       0x78 src/mem.o
+                0x0000000080010300                Mem_Free
+ .text.MUtil_Sin
+                0x0000000080010378       0x1c src/mutil.o
+                0x0000000080010378                MUtil_Sin
+ .text.MUtil_Cos
+                0x0000000080010394       0x20 src/mutil.o
+                0x0000000080010394                MUtil_Cos
+ .text.MUtil_RotatePoint
+                0x00000000800103b4       0x5c src/mutil.o
+                0x00000000800103b4                MUtil_RotatePoint
+ .text.Random8  0x0000000080010410       0x50 src/random.o
+                0x0000000080010410                Random8
+ .text.RandomRange
+                0x0000000080010460       0x5c src/random.o
+                0x0000000080010460                RandomRange
+ .text.Archive_Find
+                0x00000000800104bc       0xa0 src/archive.o
+                0x00000000800104bc                Archive_Find
+ .text.Font_Arial_GetWidth
+                0x000000008001055c       0x58 src/font.o
+                0x000000008001055c                Font_Arial_GetWidth
+ .text.Font_Draw
+                0x00000000800105b4       0x40 src/font.o
+                0x00000000800105b4                Font_Draw
+ .text.Font_Bold_GetWidth
+                0x00000000800105f4       0x2c src/font.o
+                0x00000000800105f4                Font_Bold_GetWidth
+ .text.Font_Bold_DrawCol
+                0x0000000080010620      0x1ac src/font.o
+                0x0000000080010620                Font_Bold_DrawCol
+ .text.Font_Arial_DrawCol
+                0x00000000800107cc      0x1f0 src/font.o
+                0x00000000800107cc                Font_Arial_DrawCol
+ .text.FontData_Load
+                0x00000000800109bc       0xc0 src/font.o
+                0x00000000800109bc                FontData_Load
+ .text.Trans_Set
+                0x0000000080010a7c       0x20 src/trans.o
+                0x0000000080010a7c                Trans_Set
+ .text.Trans_Clear
+                0x0000000080010a9c       0x18 src/trans.o
+                0x0000000080010a9c                Trans_Clear
+ .text.Trans_Start
+                0x0000000080010ab4       0x10 src/trans.o
+                0x0000000080010ab4                Trans_Start
+ .text.Trans_Tick
+                0x0000000080010ac4      0x238 src/trans.o
+                0x0000000080010ac4                Trans_Tick
+ .text.Trans_Idle
+                0x0000000080010cfc       0x10 src/trans.o
+                0x0000000080010cfc                Trans_Idle
+ .text.LoadScr_Start
+                0x0000000080010d0c       0xe8 src/loadscr.o
+                0x0000000080010d0c                LoadScr_Start
+ .text.LoadScr_End
+                0x0000000080010df4       0x5c src/loadscr.o
+                0x0000000080010df4                LoadScr_End
+ .text.Menu_DifficultySelector
+                0x0000000080010e50      0x170 src/menu.o
+ .text.Menu_DrawWeek.constprop.0
+                0x0000000080010fc0      0x134 src/menu.o
+ .text.Menu_Load
+                0x00000000800110f4      0x19c src/menu.o
+                0x00000000800110f4                Menu_Load
+ .text.Menu_Tick
+                0x0000000080011290     0x1940 src/menu.o
+                0x0000000080011290                Menu_Tick
+ .text.Stage_LoadState
+                0x0000000080012bd0       0xf0 src/stage.o
+ .text.Stage_ScrollCamera
+                0x0000000080012cc0      0x114 src/stage.o
+ .text.Stage_DrawStrum.constprop.0
+                0x0000000080012dd4      0x12c src/stage.o
+ .text.Stage_SustainCheck
+                0x0000000080012f00      0x16c src/stage.o
+ .text.Stage_NoteCheck
+                0x000000008001306c      0x4cc src/stage.o
+ .text.Stage_ProcessPlayer.part.0
+                0x0000000080013538      0x19c src/stage.o
+ .text.Stage_LoadChart
+                0x00000000800136d4      0x314 src/stage.o
+ .text.Stage_DrawHealth
+                0x00000000800139e8      0x244 src/stage.o
+ .text.Stage_DrawTexCol
+                0x0000000080013c2c      0x154 src/stage.o
+                0x0000000080013c2c                Stage_DrawTexCol
+ .text.Stage_DrawTex
+                0x0000000080013d80      0x14c src/stage.o
+                0x0000000080013d80                Stage_DrawTex
+ .text.Stage_DrawTexArb
+                0x0000000080013ecc      0x1b8 src/stage.o
+                0x0000000080013ecc                Stage_DrawTexArb
+ .text.Stage_Load
+                0x0000000080014084      0x2f0 src/stage.o
+                0x0000000080014084                Stage_Load
+ .text.Stage_Unload
+                0x0000000080014374       0xb4 src/stage.o
+                0x0000000080014374                Stage_Unload
+ .text.Stage_Tick
+                0x0000000080014428     0x1ffc src/stage.o
+                0x0000000080014428                Stage_Tick
+ .text.PSX_Init
+                0x0000000080016424        0x8 src/psx/psx.o
+                0x0000000080016424                PSX_Init
+ .text.PSX_Quit
+                0x000000008001642c        0x8 src/psx/psx.o
+                0x000000008001642c                PSX_Quit
+ .text.PSX_Running
+                0x0000000080016434        0x8 src/psx/psx.o
+                0x0000000080016434                PSX_Running
+ .text.IO_Init  0x000000008001643c        0x8 src/psx/io.o
+                0x000000008001643c                IO_Init
+ .text.IO_Quit  0x0000000080016444        0x8 src/psx/io.o
+                0x0000000080016444                IO_Quit
+ .text.IO_FindFile
+                0x000000008001644c       0x7c src/psx/io.o
+                0x000000008001644c                IO_FindFile
+ .text.IO_SeekFile
+                0x00000000800164c8       0x10 src/psx/io.o
+                0x00000000800164c8                IO_SeekFile
+ .text.IO_AsyncReadFile
+                0x00000000800164d8       0xac src/psx/io.o
+                0x00000000800164d8                IO_AsyncReadFile
+ .text.IO_Read  0x0000000080016584      0x114 src/psx/io.o
+                0x0000000080016584                IO_Read
+ .text.IO_IsReading
+                0x0000000080016698       0x34 src/psx/io.o
+                0x0000000080016698                IO_IsReading
+ .text.Gfx_Init
+                0x00000000800166cc      0x290 src/psx/gfx.o
+                0x00000000800166cc                Gfx_Init
+ .text.Gfx_Quit
+                0x000000008001695c        0x8 src/psx/gfx.o
+                0x000000008001695c                Gfx_Quit
+ .text.Gfx_Flip
+                0x0000000080016964       0xdc src/psx/gfx.o
+                0x0000000080016964                Gfx_Flip
+ .text.Gfx_SetClear
+                0x0000000080016a40       0x24 src/psx/gfx.o
+                0x0000000080016a40                Gfx_SetClear
+ .text.Gfx_EnableClear
+                0x0000000080016a64       0x18 src/psx/gfx.o
+                0x0000000080016a64                Gfx_EnableClear
+ .text.Gfx_DisableClear
+                0x0000000080016a7c       0x14 src/psx/gfx.o
+                0x0000000080016a7c                Gfx_DisableClear
+ .text.Gfx_LoadTex
+                0x0000000080016a90      0x1b4 src/psx/gfx.o
+                0x0000000080016a90                Gfx_LoadTex
+ .text.Gfx_DrawRect
+                0x0000000080016c44       0xf0 src/psx/gfx.o
+                0x0000000080016c44                Gfx_DrawRect
+ .text.Gfx_BlendRect
+                0x0000000080016d34      0x14c src/psx/gfx.o
+                0x0000000080016d34                Gfx_BlendRect
+ .text.Gfx_BlitTexCol
+                0x0000000080016e80      0x130 src/psx/gfx.o
+                0x0000000080016e80                Gfx_BlitTexCol
+ .text.Gfx_BlitTex
+                0x0000000080016fb0      0x120 src/psx/gfx.o
+                0x0000000080016fb0                Gfx_BlitTex
+ .text.Gfx_DrawTexCol
+                0x00000000800170d0      0xf14 src/psx/gfx.o
+                0x00000000800170d0                Gfx_DrawTexCol
+ .text.Gfx_DrawTex
+                0x0000000080017fe4      0x75c src/psx/gfx.o
+                0x0000000080017fe4                Gfx_DrawTex
+ .text.Gfx_DrawTexArb
+                0x0000000080018740      0x168 src/psx/gfx.o
+                0x0000000080018740                Gfx_DrawTexArb
+ .text.Audio_ProcessXA.part.0
+                0x00000000800188a8      0x39c src/psx/audio.o
+ .text.Audio_Init
+                0x0000000080018c44       0x74 src/psx/audio.o
+                0x0000000080018c44                Audio_Init
+ .text.Audio_Quit
+                0x0000000080018cb8        0x8 src/psx/audio.o
+                0x0000000080018cb8                Audio_Quit
+ .text.Audio_PlayXA_Track
+                0x0000000080018cc0      0x1d8 src/psx/audio.o
+                0x0000000080018cc0                Audio_PlayXA_Track
+ .text.Audio_SeekXA_Track
+                0x0000000080018e98       0x5c src/psx/audio.o
+                0x0000000080018e98                Audio_SeekXA_Track
+ .text.Audio_StopXA
+                0x0000000080018ef4       0x58 src/psx/audio.o
+                0x0000000080018ef4                Audio_StopXA
+ .text.Audio_ChannelXA
+                0x0000000080018f4c       0x3c src/psx/audio.o
+                0x0000000080018f4c                Audio_ChannelXA
+ .text.Audio_TellXA_Milli
+                0x0000000080018f88       0x3c src/psx/audio.o
+                0x0000000080018f88                Audio_TellXA_Milli
+ .text.Audio_PlayingXA
+                0x0000000080018fc4       0x18 src/psx/audio.o
+                0x0000000080018fc4                Audio_PlayingXA
+ .text.Audio_WaitPlayXA
+                0x0000000080018fdc       0x5c src/psx/audio.o
+                0x0000000080018fdc                Audio_WaitPlayXA
+ .text.Audio_ProcessXA
+                0x0000000080019038       0x28 src/psx/audio.o
+                0x0000000080019038                Audio_ProcessXA
+ .text.Pad_Init
+                0x0000000080019060       0x70 src/psx/pad.o
+                0x0000000080019060                Pad_Init
+ .text.Pad_Quit
+                0x00000000800190d0        0x8 src/psx/pad.o
+                0x00000000800190d0                Pad_Quit
+ .text.Pad_Update
+                0x00000000800190d8      0x11c src/psx/pad.o
+                0x00000000800190d8                Pad_Update
+ .text.Timer_Callback
+                0x00000000800191f4       0x18 src/psx/timer.o
+                0x00000000800191f4                Timer_Callback
+ .text.Timer_Init
+                0x000000008001920c       0xf8 src/psx/timer.o
+                0x000000008001920c                Timer_Init
+ .text.Timer_Tick
+                0x0000000080019304      0x11c src/psx/timer.o
+                0x0000000080019304                Timer_Tick
+ .text.Timer_Reset
+                0x0000000080019420      0x118 src/psx/timer.o
+                0x0000000080019420                Timer_Reset
+ .text.Back_Dummy_Free
+                0x0000000080019538        0x8 src/stage/dummy.o
+                0x0000000080019538                Back_Dummy_Free
+ .text.Back_Dummy_New
+                0x0000000080019540       0x58 src/stage/dummy.o
+                0x0000000080019540                Back_Dummy_New
+ .text.Back_Week1_DrawBG
+                0x0000000080019598      0x298 src/stage/week1.o
+                0x0000000080019598                Back_Week1_DrawBG
+ .text.Back_Week1_Free
+                0x0000000080019830        0x8 src/stage/week1.o
+                0x0000000080019830                Back_Week1_Free
+ .text.Back_Week1_New
+                0x0000000080019838       0xb0 src/stage/week1.o
+                0x0000000080019838                Back_Week1_New
+ .text.Back_Week2_DrawBG
+                0x00000000800198e8       0x88 src/stage/week2.o
+                0x00000000800198e8                Back_Week2_DrawBG
+ .text.Back_Week2_Free
+                0x0000000080019970        0x8 src/stage/week2.o
+                0x0000000080019970                Back_Week2_Free
+ .text.Back_Week2_New
+                0x0000000080019978       0x90 src/stage/week2.o
+                0x0000000080019978                Back_Week2_New
+ .text.Back_Week3_DrawBG
+                0x0000000080019a08      0x704 src/stage/week3.o
+                0x0000000080019a08                Back_Week3_DrawBG
+ .text.Back_Week3_Free
+                0x000000008001a10c        0x8 src/stage/week3.o
+                0x000000008001a10c                Back_Week3_Free
+ .text.Back_Week3_New
+                0x000000008001a114      0x150 src/stage/week3.o
+                0x000000008001a114                Back_Week3_New
+ .text.Back_Week4_DrawMD
+                0x000000008001a264       0xe0 src/stage/week4.o
+                0x000000008001a264                Back_Week4_DrawMD
+ .text.Back_Week4_DrawFG
+                0x000000008001a344      0x124 src/stage/week4.o
+                0x000000008001a344                Back_Week4_DrawFG
+ .text.Back_Week4_Free
+                0x000000008001a468       0x30 src/stage/week4.o
+                0x000000008001a468                Back_Week4_Free
+ .text.Week4_Henchmen_SetFrame
+                0x000000008001a498       0x60 src/stage/week4.o
+                0x000000008001a498                Week4_Henchmen_SetFrame
+ .text.Back_Week4_DrawBG
+                0x000000008001a4f8      0x434 src/stage/week4.o
+                0x000000008001a4f8                Back_Week4_DrawBG
+ .text.Back_Week4_New
+                0x000000008001a92c      0x17c src/stage/week4.o
+                0x000000008001a92c                Back_Week4_New
+ .text.Back_Week5_DrawBG
+                0x000000008001aaa8      0x460 src/stage/week5.o
+                0x000000008001aaa8                Back_Week5_DrawBG
+ .text.Back_Week5_Free
+                0x000000008001af08        0x8 src/stage/week5.o
+                0x000000008001af08                Back_Week5_Free
+ .text.Back_Week5_New
+                0x000000008001af10      0x130 src/stage/week5.o
+                0x000000008001af10                Back_Week5_New
+ .text.Back_Week7_DrawBG
+                0x000000008001b040      0x68c src/stage/week7.o
+                0x000000008001b040                Back_Week7_DrawBG
+ .text.Back_Week7_Free
+                0x000000008001b6cc        0x8 src/stage/week7.o
+                0x000000008001b6cc                Back_Week7_Free
+ .text.Back_Week7_DrawFG
+                0x000000008001b6d4       0x5c src/stage/week7.o
+                0x000000008001b6d4                Back_Week7_DrawFG
+ .text.Back_Week7_New
+                0x000000008001b730      0x164 src/stage/week7.o
+                0x000000008001b730                Back_Week7_New
+ .text.Animatable_Init
+                0x000000008001b894        0x8 src/animation.o
+                0x000000008001b894                Animatable_Init
+ .text.Animatable_SetAnim
+                0x000000008001b89c       0x3c src/animation.o
+                0x000000008001b89c                Animatable_SetAnim
+ .text.Animatable_Animate
+                0x000000008001b8d8      0x170 src/animation.o
+                0x000000008001b8d8                Animatable_Animate
+ .text.Animatable_Ended
+                0x000000008001ba48        0xc src/animation.o
+                0x000000008001ba48                Animatable_Ended
+ .text.Character_Free
+                0x000000008001ba54       0x40 src/character.o
+                0x000000008001ba54                Character_Free
+ .text.Character_Init
+                0x000000008001ba94       0x38 src/character.o
+                0x000000008001ba94                Character_Init
+ .text.Character_Draw
+                0x000000008001bacc       0xb4 src/character.o
+                0x000000008001bacc                Character_Draw
+ .text.Character_CheckStartSing
+                0x000000008001bb80       0x50 src/character.o
+                0x000000008001bb80                Character_CheckStartSing
+ .text.Character_CheckEndSing
+                0x000000008001bbd0       0x68 src/character.o
+                0x000000008001bbd0                Character_CheckEndSing
+ .text.Character_PerformIdle
+                0x000000008001bc38      0x11c src/character.o
+                0x000000008001bc38                Character_PerformIdle
+ .text.Char_BF_Tick
+                0x000000008001bd54      0x57c src/character/bf.o
+                0x000000008001bd54                Char_BF_Tick
+ .text.Char_BF_Free
+                0x000000008001c2d0       0x30 src/character/bf.o
+                0x000000008001c2d0                Char_BF_Free
+ .text.Char_BF_SetAnim
+                0x000000008001c300      0x114 src/character/bf.o
+                0x000000008001c300                Char_BF_SetAnim
+ .text.Char_BF_SetFrame
+                0x000000008001c414       0x60 src/character/bf.o
+                0x000000008001c414                Char_BF_SetFrame
+ .text.Char_BF_New
+                0x000000008001c474      0x1ec src/character/bf.o
+                0x000000008001c474                Char_BF_New
+ .text.Char_BFWeeb_Tick
+                0x000000008001c660      0x4e8 src/character/bfweeb.o
+                0x000000008001c660                Char_BFWeeb_Tick
+ .text.Char_BFWeeb_Free
+                0x000000008001cb48       0x30 src/character/bfweeb.o
+                0x000000008001cb48                Char_BFWeeb_Free
+ .text.Char_BFWeeb_SetAnim
+                0x000000008001cb78       0xb4 src/character/bfweeb.o
+                0x000000008001cb78                Char_BFWeeb_SetAnim
+ .text.Char_BFWeeb_SetFrame
+                0x000000008001cc2c       0x60 src/character/bfweeb.o
+                0x000000008001cc2c                Char_BFWeeb_SetFrame
+ .text.Char_BFWeeb_New
+                0x000000008001cc8c      0x1a0 src/character/bfweeb.o
+                0x000000008001cc8c                Char_BFWeeb_New
+ .text.Speaker_Init
+                0x000000008001ce2c       0x3c src/character/speaker.o
+                0x000000008001ce2c                Speaker_Init
+ .text.Speaker_Bump
+                0x000000008001ce68        0xc src/character/speaker.o
+                0x000000008001ce68                Speaker_Bump
+ .text.Speaker_Tick
+                0x000000008001ce74      0x138 src/character/speaker.o
+                0x000000008001ce74                Speaker_Tick
+ .text.Char_Dad_Tick
+                0x000000008001cfac       0x78 src/character/dad.o
+                0x000000008001cfac                Char_Dad_Tick
+ .text.Char_Dad_SetAnim
+                0x000000008001d024       0x2c src/character/dad.o
+                0x000000008001d024                Char_Dad_SetAnim
+ .text.Char_Dad_Free
+                0x000000008001d050        0xc src/character/dad.o
+                0x000000008001d050                Char_Dad_Free
+ .text.Char_Dad_SetFrame
+                0x000000008001d05c       0x60 src/character/dad.o
+                0x000000008001d05c                Char_Dad_SetFrame
+ .text.Char_Dad_New
+                0x000000008001d0bc      0x150 src/character/dad.o
+                0x000000008001d0bc                Char_Dad_New
+ .text.Char_Spook_Tick
+                0x000000008001d20c      0x120 src/character/spook.o
+                0x000000008001d20c                Char_Spook_Tick
+ .text.Char_Spook_SetAnim
+                0x000000008001d32c       0x70 src/character/spook.o
+                0x000000008001d32c                Char_Spook_SetAnim
+ .text.Char_Spook_Free
+                0x000000008001d39c        0xc src/character/spook.o
+                0x000000008001d39c                Char_Spook_Free
+ .text.Char_Spook_SetFrame
+                0x000000008001d3a8       0x60 src/character/spook.o
+                0x000000008001d3a8                Char_Spook_SetFrame
+ .text.Char_Spook_New
+                0x000000008001d408      0x174 src/character/spook.o
+                0x000000008001d408                Char_Spook_New
+ .text.Char_Pico_Tick
+                0x000000008001d57c       0x78 src/character/pico.o
+                0x000000008001d57c                Char_Pico_Tick
+ .text.Char_Pico_SetAnim
+                0x000000008001d5f4       0x2c src/character/pico.o
+                0x000000008001d5f4                Char_Pico_SetAnim
+ .text.Char_Pico_Free
+                0x000000008001d620        0xc src/character/pico.o
+                0x000000008001d620                Char_Pico_Free
+ .text.Char_Pico_SetFrame
+                0x000000008001d62c       0x60 src/character/pico.o
+                0x000000008001d62c                Char_Pico_SetFrame
+ .text.Char_Pico_New
+                0x000000008001d68c      0x144 src/character/pico.o
+                0x000000008001d68c                Char_Pico_New
+ .text.Char_Mom_Tick
+                0x000000008001d7d0      0x120 src/character/mom.o
+                0x000000008001d7d0                Char_Mom_Tick
+ .text.Char_Mom_SetAnim
+                0x000000008001d8f0       0x2c src/character/mom.o
+                0x000000008001d8f0                Char_Mom_SetAnim
+ .text.Char_Mom_Free
+                0x000000008001d91c        0xc src/character/mom.o
+                0x000000008001d91c                Char_Mom_Free
+ .text.Char_Mom_SetFrame
+                0x000000008001d928       0x60 src/character/mom.o
+                0x000000008001d928                Char_Mom_SetFrame
+ .text.Char_Mom_New
+                0x000000008001d988      0x184 src/character/mom.o
+                0x000000008001d988                Char_Mom_New
+ .text.Char_XmasP_Tick
+                0x000000008001db0c       0x78 src/character/xmasp.o
+                0x000000008001db0c                Char_XmasP_Tick
+ .text.Char_XmasP_SetAnim
+                0x000000008001db84       0x2c src/character/xmasp.o
+                0x000000008001db84                Char_XmasP_SetAnim
+ .text.Char_XmasP_Free
+                0x000000008001dbb0        0xc src/character/xmasp.o
+                0x000000008001dbb0                Char_XmasP_Free
+ .text.Char_XmasP_SetFrame
+                0x000000008001dbbc       0x60 src/character/xmasp.o
+                0x000000008001dbbc                Char_XmasP_SetFrame
+ .text.Char_XmasP_New
+                0x000000008001dc1c      0x164 src/character/xmasp.o
+                0x000000008001dc1c                Char_XmasP_New
+ .text.Char_Senpai_Tick
+                0x000000008001dd80       0xcc src/character/senpai.o
+                0x000000008001dd80                Char_Senpai_Tick
+ .text.Char_Senpai_SetAnim
+                0x000000008001de4c       0x2c src/character/senpai.o
+                0x000000008001de4c                Char_Senpai_SetAnim
+ .text.Char_Senpai_Free
+                0x000000008001de78        0xc src/character/senpai.o
+                0x000000008001de78                Char_Senpai_Free
+ .text.Char_Senpai_SetFrame
+                0x000000008001de84       0x60 src/character/senpai.o
+                0x000000008001de84                Char_Senpai_SetFrame
+ .text.Char_Senpai_New
+                0x000000008001dee4      0x134 src/character/senpai.o
+                0x000000008001dee4                Char_Senpai_New
+ .text.Char_SenpaiM_Tick
+                0x000000008001e018       0xf4 src/character/senpaim.o
+                0x000000008001e018                Char_SenpaiM_Tick
+ .text.Char_SenpaiM_SetAnim
+                0x000000008001e10c       0x2c src/character/senpaim.o
+                0x000000008001e10c                Char_SenpaiM_SetAnim
+ .text.Char_SenpaiM_Free
+                0x000000008001e138        0xc src/character/senpaim.o
+                0x000000008001e138                Char_SenpaiM_Free
+ .text.Char_SenpaiM_SetFrame
+                0x000000008001e144       0x60 src/character/senpaim.o
+                0x000000008001e144                Char_SenpaiM_SetFrame
+ .text.Char_SenpaiM_New
+                0x000000008001e1a4      0x134 src/character/senpaim.o
+                0x000000008001e1a4                Char_SenpaiM_New
+ .text.Char_Tank_Tick
+                0x000000008001e2d8      0x19c src/character/tank.o
+                0x000000008001e2d8                Char_Tank_Tick
+ .text.Char_Tank_SetAnim
+                0x000000008001e474       0xb8 src/character/tank.o
+                0x000000008001e474                Char_Tank_SetAnim
+ .text.Char_Tank_Free
+                0x000000008001e52c       0x30 src/character/tank.o
+                0x000000008001e52c                Char_Tank_Free
+ .text.Char_Tank_SetFrame
+                0x000000008001e55c       0x60 src/character/tank.o
+                0x000000008001e55c                Char_Tank_SetFrame
+ .text.Char_Tank_New
+                0x000000008001e5bc      0x25c src/character/tank.o
+                0x000000008001e5bc                Char_Tank_New
+ .text.Char_GF_Tick
+                0x000000008001e818      0x1f0 src/character/gf.o
+                0x000000008001e818                Char_GF_Tick
+ .text.Char_GF_SetAnim
+                0x000000008001ea08        0x8 src/character/gf.o
+                0x000000008001ea08                Char_GF_SetAnim
+ .text.Char_GF_Free
+                0x000000008001ea10        0xc src/character/gf.o
+                0x000000008001ea10                Char_GF_Free
+ .text.Char_GF_SetFrame
+                0x000000008001ea1c       0x60 src/character/gf.o
+                0x000000008001ea1c                Char_GF_SetFrame
+ .text.Char_GF_New
+                0x000000008001ea7c      0x19c src/character/gf.o
+                0x000000008001ea7c                Char_GF_New
+ .text.Char_Clucky_Tick
+                0x000000008001ec18       0x78 src/character/clucky.o
+                0x000000008001ec18                Char_Clucky_Tick
+ .text.Char_Clucky_SetAnim
+                0x000000008001ec90       0x2c src/character/clucky.o
+                0x000000008001ec90                Char_Clucky_SetAnim
+ .text.Char_Clucky_Free
+                0x000000008001ecbc        0xc src/character/clucky.o
+                0x000000008001ecbc                Char_Clucky_Free
+ .text.Char_Clucky_SetFrame
+                0x000000008001ecc8       0x60 src/character/clucky.o
+                0x000000008001ecc8                Char_Clucky_SetFrame
+ .text.Char_Clucky_New
+                0x000000008001ed28      0x168 src/character/clucky.o
+                0x000000008001ed28                Char_Clucky_New
+ .text.ObjectList_Add
+                0x000000008001ee90       0x20 src/object.o
+                0x000000008001ee90                ObjectList_Add
+ .text.ObjectList_Tick
+                0x000000008001eeb0       0xc4 src/object.o
+                0x000000008001eeb0                ObjectList_Tick
+ .text.ObjectList_Free
+                0x000000008001ef74       0x64 src/object.o
+                0x000000008001ef74                ObjectList_Free
+ .text.Obj_Combo_Free
+                0x000000008001efd8        0x8 src/object/combo.o
+                0x000000008001efd8                Obj_Combo_Free
+ .text.Obj_Combo_Tick
+                0x000000008001efe0      0x54c src/object/combo.o
+                0x000000008001efe0                Obj_Combo_Tick
+ .text.Obj_Combo_Tick_Weeb
+                0x000000008001f52c      0x564 src/object/combo.o
+                0x000000008001f52c                Obj_Combo_Tick_Weeb
+ .text.Obj_Combo_New
+                0x000000008001fa90      0x260 src/object/combo.o
+                0x000000008001fa90                Obj_Combo_New
+ .text.Obj_Splash_Free
+                0x000000008001fcf0        0x8 src/object/splash.o
+                0x000000008001fcf0                Obj_Splash_Free
+ .text.Obj_Splash_Tick
+                0x000000008001fcf8      0x288 src/object/splash.o
+                0x000000008001fcf8                Obj_Splash_Tick
+ .text.Obj_Splash_New
+                0x000000008001ff80       0xe8 src/object/splash.o
+                0x000000008001ff80                Obj_Splash_New
+ .text          0x0000000080020068       0x10 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(a36.o)
+                0x0000000080020068                EnterCriticalSection
+ .text          0x0000000080020078       0x10 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(a37.o)
+                0x0000000080020078                ExitCriticalSection
+ .text          0x0000000080020088       0x10 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(a91.o)
+                0x0000000080020088                ChangeClearPAD
+ .text          0x0000000080020098      0x170 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(counter.o)
+                0x0000000080020098                SetRCnt
+                0x0000000080020134                GetRCnt
+                0x000000008002016c                StartRCnt
+                0x000000008002019c                StopRCnt
+                0x00000000800201d0                ResetRCnt
+ .text          0x0000000080020208       0x10 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(l10.o)
+                0x0000000080020208                ChangeClearRCnt
+ .text          0x0000000080020218      0x290 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(pad.o)
+                0x0000000080020218                SetInitPadFlag
+                0x0000000080020224                ReadInitPadFlag
+                0x0000000080020234                PAD_init
+                0x00000000800202c4                InitPAD
+                0x0000000080020354                StartPAD
+ .text          0x00000000800204a8       0xa0 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(patch.o)
+                0x00000000800204a8                EnablePAD
+                0x00000000800204bc                DisablePAD
+                0x00000000800204d0                _patch_pad
+ .text          0x0000000080020548       0x10 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(a18.o)
+                0x0000000080020548                InitPAD2
+ .text          0x0000000080020558       0x10 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(a19.o)
+                0x0000000080020558                StartPAD2
+ .text          0x0000000080020568       0x10 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(a21.o)
+                0x0000000080020568                PAD_init2
+ .text          0x0000000080020578       0x10 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(c68.o)
+                0x0000000080020578                FlushCache
+ .text          0x0000000080020588       0x70 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(chclrpad.o)
+                0x0000000080020588                _remove_ChgclrPAD
+ .text          0x00000000800205f8       0x10 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(l02.o)
+                0x00000000800205f8                SysEnqIntRP
+ .text          0x0000000080020608       0x10 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(l03.o)
+                0x0000000080020608                SysDeqIntRP
+ .text          0x0000000080020618       0x40 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libc2.a(memcpy.o)
+                0x0000000080020618                memcpy
+ .text          0x0000000080020658       0x30 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libc2.a(memset.o)
+                0x0000000080020658                memset
+ .text          0x0000000080020688       0x40 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libc2.a(printf.o)
+                0x0000000080020688                printf
+ .text          0x00000000800206c8      0x6a0 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libc2.a(prnt.o)
+                0x00000000800206c8                prnt
+ .text          0x0000000080020d68      0x260 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libc2.a(putchar.o)
+                0x0000000080020d68                _putchar
+                0x0000000080020e64                _putchar_flash
+                0x0000000080020ea0                putchar
+ .text          0x0000000080020fc8      0x880 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libc2.a(sprintf.o)
+                0x0000000080020fc8                sprintf
+ .text          0x0000000080021848       0x50 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libc2.a(strcpy.o)
+                0x0000000080021848                strcpy
+ .text          0x0000000080021898       0x40 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libc2.a(strlen.o)
+                0x0000000080021898                strlen
+ .text          0x00000000800218d8       0x80 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libc2.a(strncmp.o)
+                0x00000000800218d8                strncmp
+ .text          0x0000000080021958       0x50 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libc2.a(memchr.o)
+                0x0000000080021958                memchr
+ .text          0x00000000800219a8       0x70 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libc2.a(memmove.o)
+                0x00000000800219a8                memmove
+ .text          0x0000000080021a18      0x9a0 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(cdr_1.o)
+                0x0000000080021f78                CdReadBreak
+                0x0000000080022118                CdRead
+                0x00000000800222b4                CdReadSync
+ .text          0x00000000800223b8      0x150 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(event.o)
+                0x00000000800223b8                CdInit
+ .text          0x0000000080022508      0x970 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(iso9660.o)
+                0x0000000080022508                CdSearchFile
+ .text          0x0000000080022e78      0x110 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(s_002.o)
+                0x0000000080022e78                CdIntToPos
+ .text          0x0000000080022f88       0x10 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(s_003.o)
+                0x0000000080022f88                CdStatus
+ .text          0x0000000080022f98       0x10 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(s_004.o)
+                0x0000000080022f98                CdMode
+ .text          0x0000000080022fa8       0x10 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(s_006.o)
+                0x0000000080022fa8                CdLastPos
+ .text          0x0000000080022fb8       0x20 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(s_008.o)
+                0x0000000080022fb8                CdFlush
+ .text          0x0000000080022fd8       0x20 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(s_013.o)
+                0x0000000080022fd8                CdReady
+ .text          0x0000000080022ff8       0x20 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(s_014.o)
+                0x0000000080022ff8                CdSyncCallback
+ .text          0x0000000080023018       0x20 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(s_015.o)
+                0x0000000080023018                CdReadyCallback
+ .text          0x0000000080023038      0x3c0 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(s_016.o)
+                0x0000000080023038                CdControl
+                0x0000000080023174                CdControlF
+                0x00000000800232a8                CdControlB
+ .text          0x00000000800233f8       0x20 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(s_020.o)
+                0x00000000800233f8                CdMix
+ .text          0x0000000080023418       0x20 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(s_021.o)
+                0x0000000080023418                CdGetSector
+ .text          0x0000000080023438       0x20 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(s_022.o)
+                0x0000000080023438                CdGetSector2
+ .text          0x0000000080023458       0x30 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(s_023.o)
+                0x0000000080023458                CdDataCallback
+ .text          0x0000000080023488       0x20 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(s_024.o)
+                0x0000000080023488                CdDataSync
+ .text          0x00000000800234a8       0x80 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(sys.o)
+                0x00000000800234a8                CdPosToInt
+ .text          0x0000000080023528     0x1580 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(bios_1.o)
+                0x0000000080023a8c                CD_sync
+                0x0000000080023d0c                CD_ready
+                0x0000000080023fd4                CD_cw
+                0x00000000800243e0                CD_vol
+                0x0000000080024468                CD_flush
+                0x000000008002453c                CD_initvol
+                0x000000008002462c                CD_initintr
+                0x0000000080024678                CD_init
+                0x0000000080024858                CD_datasync
+                0x00000000800249c0                CD_set_test_parmnum
+ .text          0x0000000080024aa8      0x100 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(bios_2.o)
+                0x0000000080024aa8                CD_getsector
+ .text          0x0000000080024ba8       0xf0 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(bios_3.o)
+                0x0000000080024ba8                CD_getsector2
+ .text          0x0000000080024c98      0x6c0 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libetc.a(intr.o)
+                0x0000000080024c98                ResetCallback
+                0x0000000080024cc8                InterruptCallback
+                0x0000000080024cf8                DMACallback
+                0x0000000080024d28                VSyncCallback
+                0x0000000080024d5c                VSyncCallbacks
+                0x0000000080024d8c                StopCallback
+                0x0000000080024dbc                RestartCallback
+                0x0000000080024dec                CheckCallback
+                0x0000000080024dfc                GetIntrMask
+                0x0000000080024e14                SetIntrMask
+ .text          0x0000000080025358      0x2a0 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libetc.a(intr_dma.o)
+                0x0000000080025358                startIntrDMA
+ .text          0x00000000800255f8      0x120 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libetc.a(intr_vb.o)
+                0x00000000800255f8                startIntrVSync
+ .text          0x0000000080025718       0x30 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libetc.a(vmode.o)
+                0x0000000080025718                SetVideoMode
+                0x000000008002572c                GetVideoMode
+ .text          0x0000000080025748      0x210 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libetc.a(vsync.o)
+                0x0000000080025748                VSync
+ .text          0x0000000080025958       0xc0 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libgpu.a(e03.o)
+                0x0000000080025958                SetDefDrawEnv
+ .text          0x0000000080025a18       0x40 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libgpu.a(e04.o)
+                0x0000000080025a18                SetDefDispEnv
+ .text          0x0000000080025a58      0xa80 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libgpu.a(font.o)
+                0x0000000080025a58                SetDumpFnt
+                0x0000000080025a98                FntLoad
+                0x0000000080025b38                FntOpen
+                0x0000000080025df4                FntFlush
+                0x0000000080026110                FntPrint
+ .text          0x00000000800264d8       0x40 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libgpu.a(p06.o)
+                0x00000000800264d8                AddPrim
+ .text          0x0000000080026518       0x20 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libgpu.a(p09.o)
+                0x0000000080026518                TermPrim
+ .text          0x0000000080026538       0x30 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libgpu.a(p10.o)
+                0x0000000080026538                SetSemiTrans
+ .text          0x0000000080026568       0x20 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libgpu.a(p20.o)
+                0x0000000080026568                SetSprt8
+ .text          0x0000000080026588       0x20 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libgpu.a(p26.o)
+                0x0000000080026588                SetTile
+ .text          0x00000000800265a8       0xa0 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libgpu.a(p41.o)
+                0x00000000800265a8                SetDrawMode
+ .text          0x0000000080026648     0x2f00 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libgpu.a(sys.o)
+                0x0000000080026648                ResetGraph
+                0x00000000800267bc                SetGraphDebug
+                0x0000000080026818                SetGraphQueue
+                0x00000000800268bc                GetGraphDebug
+                0x00000000800268cc                DrawSyncCallback
+                0x000000008002692c                SetDispMask
+                0x00000000800269c4                DrawSync
+                0x0000000080026b48                ClearImage
+                0x0000000080026bd8                ClearImage2
+                0x0000000080026c70                LoadImage
+                0x0000000080026cd0                StoreImage
+                0x0000000080026d30                MoveImage
+                0x0000000080026de8                ClearOTag
+                0x0000000080026eb0                ClearOTagR
+                0x0000000080026f5c                DrawPrim
+                0x0000000080026fb8                DrawOTag
+                0x0000000080027028                PutDrawEnv
+                0x00000000800270e8                DrawOTagEnv
+                0x00000000800271c0                GetDrawEnv
+                0x00000000800271f4                PutDispEnv
+                0x00000000800276ec                GetDispEnv
+                0x0000000080027720                GetODE
+                0x0000000080027750                SetDrawArea
+                0x00000000800277d0                SetDrawOffset
+                0x0000000080027810                SetDrawEnv
+                0x00000000800290e0                LoadImage2
+                0x00000000800291cc                StoreImage2
+                0x00000000800292b8                MoveImage2
+                0x00000000800293fc                DrawOTag2
+                0x00000000800294f8                _GPU_ResetCallback
+ .text          0x0000000080029548      0x190 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libgpu.a(t00.o)
+                0x0000000080029548                OpenTIM
+                0x0000000080029558                ReadTIM
+ .text          0x00000000800296d8       0xf0 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libgpu.a(e00.o)
+                0x00000000800296d8                LoadTPage
+ .text          0x00000000800297c8       0x70 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libgpu.a(e02.o)
+                0x00000000800297c8                LoadClut2
+ .text          0x0000000080029838       0x40 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libgpu.a(p00.o)
+                0x0000000080029838                GetTPage
+ .text          0x0000000080029878       0x20 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libgpu.a(p01.o)
+                0x0000000080029878                GetClut
+ .text          0x0000000080029898       0x40 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(ssinit_c.o)
+                0x0000000080029898                SsInit
+ .text          0x00000000800298d8      0x110 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(sssv.o)
+                0x00000000800298d8                SsSetSerialVol
+ .text          0x00000000800299e8      0x150 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(sstick.o)
+                0x00000000800299e8                SsSetTickMode
+ .text          0x0000000080029b38       0xa0 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(ssinit.o)
+                0x0000000080029b38                _SsInit
+ .text          0x0000000080029bd8      0x350 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(vm_init.o)
+                0x0000000080029bd8                _SsVmInit
+ .text          0x0000000080029f28       0xc0 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(vm_nowof.o)
+                0x0000000080029f28                _SsVmKeyOffNow
+ .text          0x0000000080029fe8      0x270 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(sscall.o)
+                0x0000000080029fe8                SsSeqCalledTbyT
+ .text          0x000000008002a258      0x1e0 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(ssstop.o)
+                0x000000008002a258                _SsSndStop
+                0x000000008002a3d8                SsSeqStop
+                0x000000008002a400                SsSepStop
+ .text          0x000000008002a438      0x220 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(tempo.o)
+                0x000000008002a438                _SsSndTempo
+ .text          0x000000008002a658       0x10 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(vm_doff.o)
+                0x000000008002a658                _SsVmDamperOff
+ .text          0x000000008002a668      0x4d0 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(vm_f.o)
+                0x000000008002a668                _SsVmFlush
+ .text          0x000000008002ab38      0x680 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(vm_seq.o)
+                0x000000008002ab38                _SsVmSetSeqVol
+                0x000000008002b0a4                _SsVmGetSeqVol
+                0x000000008002b108                _SsVmSeqKeyOff
+ .text          0x000000008002b1b8       0xc0 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(vm_vsu.o)
+                0x000000008002b1b8                _SsVmVSetUp
+ .text          0x000000008002b278      0x210 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(cres.o)
+                0x000000008002b278                _SsSndCrescendo
+ .text          0x000000008002b488       0xa0 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(pause.o)
+                0x000000008002b488                _SsSndPause
+ .text          0x000000008002b528       0x30 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(play.o)
+                0x000000008002b528                _SsSndPlay
+ .text          0x000000008002b558       0x60 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(replay.o)
+                0x000000008002b558                _SsSndReplay
+ .text          0x000000008002b5b8      0x6f0 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(midiread.o)
+                0x000000008002b5b8                _SsSeqPlay
+                0x000000008002b6b4                _SsSeqGetEof
+                0x000000008002b8f8                _SsGetSeqData
+ .text          0x000000008002bca8       0xb0 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(miditime.o)
+                0x000000008002bca8                _SsReadDeltaValue
+ .text          0x000000008002bd58      0x100 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(next.o)
+                0x000000008002bd58                _SsSndNextSep
+ .text          0x000000008002be58      0x1a0 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_crwa.o)
+                0x000000008002be58                SpuClearReverbWorkArea
+ .text          0x000000008002bff8       0x30 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_gnv.o)
+                0x000000008002bff8                SpuGetNoiseVoice
+ .text          0x000000008002c028       0x30 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_grv.o)
+                0x000000008002c028                SpuGetReverbVoice
+ .text          0x000000008002c058       0x20 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_gvex.o)
+                0x000000008002c058                SpuGetVoiceEnvelope
+ .text          0x000000008002c078       0x20 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_i.o)
+                0x000000008002c078                SpuInit
+ .text          0x000000008002c098      0x160 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_ini.o)
+                0x000000008002c098                _SpuInit
+                0x000000008002c180                SpuStart
+ .text          0x000000008002c1f8       0x40 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_it.o)
+                0x000000008002c1f8                _spu_setInTransfer
+                0x000000008002c220                _spu_getInTransfer
+ .text          0x000000008002c238       0x60 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_m_init.o)
+                0x000000008002c238                SpuInitMalloc
+ .text          0x000000008002c298      0x110 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_m_util.o)
+                0x000000008002c298                _SpuIsInAllocateArea
+                0x000000008002c318                _SpuIsInAllocateArea_
+ .text          0x000000008002c3a8      0x380 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_sca.o)
+                0x000000008002c3a8                SpuSetCommonAttr
+ .text          0x000000008002c728      0x1c0 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_sk.o)
+                0x000000008002c728                SpuSetKey
+ .text          0x000000008002c8e8       0x30 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_snv.o)
+                0x000000008002c8e8                SpuSetNoiseVoice
+ .text          0x000000008002c918       0x30 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_srv.o)
+                0x000000008002c918                SpuSetReverbVoice
+ .text          0x000000008002c948      0x600 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_sva.o)
+                0x000000008002c948                SpuSetVoiceAttr
+ .text          0x000000008002cf48      0xb40 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(spu.o)
+                0x000000008002cf48                _spu_init
+                0x000000008002d388                _spu_FiDMA
+                0x000000008002d444                _spu_Fr_
+                0x000000008002d4ec                _spu_t
+                0x000000008002d76c                _spu_Fw
+                0x000000008002d7f0                _spu_Fr
+                0x000000008002d854                _spu_FsetRXX
+                0x000000008002d898                _spu_FsetRXXa
+                0x000000008002d93c                _spu_FgetRXXa
+                0x000000008002d978                _spu_FsetPCR
+                0x000000008002da20                _spu_Fw1ts
+ .text          0x000000008002da88       0x30 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_dcb.o)
+                0x000000008002da88                _SpuDataCallback
+ .text          0x000000008002dab8       0x30 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_gav.o)
+                0x000000008002dab8                _SpuGetAnyVoice
+ .text          0x000000008002dae8      0x200 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_n2p.o)
+                0x000000008002dae8                _spu_note2pitch
+                0x000000008002dbb8                _spu_pitch2note
+ .text          0x000000008002dce8      0x2c0 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_sav.o)
+                0x000000008002dce8                _SpuSetAnyVoice
+ .text          0x000000008002dfa8       0x10 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(a07.o)
+                0x000000008002dfa8                DeliverEvent
+ .text          0x000000008002dfb8       0x10 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(a08.o)
+                0x000000008002dfb8                OpenEvent
+ .text          0x000000008002dfc8       0x10 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(a10.o)
+                0x000000008002dfc8                WaitEvent
+ .text          0x000000008002dfd8       0x10 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(a12.o)
+                0x000000008002dfd8                EnableEvent
+ .text          0x000000008002dfe8       0x10 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(a23.o)
+                0x000000008002dfe8                ReturnFromException
+ .text          0x000000008002dff8       0x10 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(a24.o)
+                0x000000008002dff8                ResetEntryInt
+ .text          0x000000008002e008       0x10 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(a25.o)
+                0x000000008002e008                HookEntryInt
+ .text          0x000000008002e018       0x10 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(a53.o)
+                0x000000008002e018                write
+ .text          0x000000008002e028       0x20 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(c114.o)
+                0x000000008002e030                _96_remove
+ .text          0x000000008002e048       0x10 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(c73.o)
+                0x000000008002e048                GPU_cw
+ .text          0x000000008002e058       0x60 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libc2.a(puts.o)
+                0x000000008002e058                puts
+ .text          0x000000008002e0b8       0x80 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libc2.a(setjmp.o)
+                0x000000008002e0b8                setjmp
+                0x000000008002e0f4                longjmp
+ .text          0x000000008002e138       0x70 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libc2.a(strcmp.o)
+                0x000000008002e138                strcmp
+                0x000000008002e1b0                . = ALIGN (0x10)
+ *fill*         0x000000008002e1a8        0x8 
+ *(.init)
+                0x000000008002e1b0                . = ALIGN (0x10)
+ *(.fini)
+                0x000000008002e1b0                . = ALIGN (0x10)
+                0x000000008002e1b0                __text_end = .
+                0x000000008002e1b0                __ftext_end = ABSOLUTE (.)
+                0x000000008002e1b0                __fdata_start = ABSOLUTE (.)
+
+.rodata         0x000000008002e1b0     0x4150
+ *(.rodata .rodata.* .rdata .rdata.* .gnu.linkonce.r.*)
+ .rodata.str1.4
+                0x000000008002e1b0       0x23 src/main.o
+ *fill*         0x000000008002e1d3        0x1 
+ .rodata        0x000000008002e1d4      0x280 src/mutil.o
+ .rodata.str1.4
+                0x000000008002e454       0x27 src/archive.o
+ *fill*         0x000000008002e47b        0x1 
+ .rodata.str1.4
+                0x000000008002e47c       0x2a src/font.o
+ *fill*         0x000000008002e4a6        0x2 
+ .rodata        0x000000008002e4a8      0x300 src/font.o
+ .rodata.str1.4
+                0x000000008002e7a8       0x14 src/loadscr.o
+ .rodata        0x000000008002e7bc       0x10 src/loadscr.o
+ .rodata        0x000000008002e7cc      0x200 src/menu.o
+ .rodata.str1.4
+                0x000000008002e9cc      0x39f src/menu.o
+                                        0x3a7 (size before relaxing)
+ *fill*         0x000000008002ed6b        0x1 
+ .rodata.str1.4
+                0x000000008002ed6c       0x92 src/stage.o
+ *fill*         0x000000008002edfe        0x2 
+ .rodata        0x000000008002ee00      0x878 src/stage.o
+ .rodata.str1.4
+                0x000000008002f678       0xa4 src/psx/io.o
+ .rodata.str1.4
+                0x000000008002f71c       0x1b src/psx/gfx.o
+ *fill*         0x000000008002f737        0x1 
+ .rodata.str1.4
+                0x000000008002f738      0x17a src/psx/audio.o
+ *fill*         0x000000008002f8b2        0x2 
+ .rodata        0x000000008002f8b4      0x100 src/psx/audio.o
+ .rodata        0x000000008002f9b4       0x10 src/psx/timer.o
+ .rodata        0x000000008002f9c4       0x38 src/stage/week1.o
+ .rodata.str1.4
+                0x000000008002f9fc       0x2a src/stage/week1.o
+ *fill*         0x000000008002fa26        0x2 
+ .rodata        0x000000008002fa28        0x8 src/stage/week2.o
+ .rodata.str1.4
+                0x000000008002fa30       0x12 src/stage/week2.o
+                                         0x1e (size before relaxing)
+ *fill*         0x000000008002fa42        0x2 
+ .rodata        0x000000008002fa44       0x9b src/stage/week3.o
+ *fill*         0x000000008002fadf        0x1 
+ .rodata.str1.4
+                0x000000008002fae0       0x42 src/stage/week3.o
+                                         0x5a (size before relaxing)
+ *fill*         0x000000008002fb22        0x2 
+ .rodata        0x000000008002fb24       0xcc src/stage/week4.o
+ .rodata.str1.4
+                0x000000008002fbf0       0x3f src/stage/week4.o
+                                         0x6f (size before relaxing)
+ *fill*         0x000000008002fc2f        0x1 
+ .rodata        0x000000008002fc30      0x118 src/stage/week5.o
+ .rodata.str1.4
+                0x000000008002fd48       0x12 src/stage/week5.o
+                                         0x5a (size before relaxing)
+ *fill*         0x000000008002fd5a        0x2 
+ .rodata        0x000000008002fd5c       0x40 src/stage/week7.o
+ .rodata.str1.4
+                0x000000008002fd9c       0x26 src/stage/week7.o
+                                         0x56 (size before relaxing)
+ *fill*         0x000000008002fdc2        0x2 
+ .rodata        0x000000008002fdc4      0x3b0 src/character/bf.o
+ .rodata.str1.4
+                0x0000000080030174       0xbe src/character/bf.o
+ *fill*         0x0000000080030232        0x2 
+ .rodata        0x0000000080030234      0x1f2 src/character/bfweeb.o
+ *fill*         0x0000000080030426        0x2 
+ .rodata.str1.4
+                0x0000000080030428       0x72 src/character/bfweeb.o
+                                         0x86 (size before relaxing)
+ *fill*         0x000000008003049a        0x2 
+ .rodata.str1.4
+                0x000000008003049c       0x14 src/character/speaker.o
+ .rodata        0x00000000800304b0       0x30 src/character/speaker.o
+ .rodata.str1.4
+                0x00000000800304e0       0x6e src/character/dad.o
+ *fill*         0x000000008003054e        0x2 
+ .rodata        0x0000000080030550       0xe4 src/character/dad.o
+ .rodata.str1.4
+                0x0000000080030634       0x72 src/character/spook.o
+                                         0x96 (size before relaxing)
+ *fill*         0x00000000800306a6        0x2 
+ .rodata        0x00000000800306a8      0x138 src/character/spook.o
+ .rodata.str1.4
+                0x00000000800307e0       0x65 src/character/pico.o
+ *fill*         0x0000000080030845        0x3 
+ .rodata        0x0000000080030848      0x118 src/character/pico.o
+ .rodata.str1.4
+                0x0000000080030960       0x54 src/character/mom.o
+                                         0x96 (size before relaxing)
+ .rodata        0x00000000800309b4      0x13c src/character/mom.o
+ .rodata.str1.4
+                0x0000000080030af0      0x114 src/character/xmasp.o
+                                        0x144 (size before relaxing)
+ .rodata        0x0000000080030c04      0x1dc src/character/xmasp.o
+ .rodata.str1.4
+                0x0000000080030de0       0x60 src/character/senpai.o
+ .rodata        0x0000000080030e40      0x12e src/character/senpai.o
+ *fill*         0x0000000080030f6e        0x2 
+ .rodata.str1.4
+                0x0000000080030f70       0x4c src/character/senpaim.o
+                                         0x64 (size before relaxing)
+ .rodata        0x0000000080030fbc      0x126 src/character/senpaim.o
+ *fill*         0x00000000800310e2        0x2 
+ .rodata.str1.4
+                0x00000000800310e4       0xb6 src/character/tank.o
+                                         0xfa (size before relaxing)
+ *fill*         0x000000008003119a        0x2 
+ .rodata        0x000000008003119c      0x1da src/character/tank.o
+ *fill*         0x0000000080031376        0x2 
+ .rodata.str1.4
+                0x0000000080031378       0x60 src/character/gf.o
+ .rodata        0x00000000800313d8      0x140 src/character/gf.o
+ .rodata.str1.4
+                0x0000000080031518       0x47 src/character/clucky.o
+                                         0x8a (size before relaxing)
+ *fill*         0x000000008003155f        0x1 
+ .rodata        0x0000000080031560      0x118 src/character/clucky.o
+ .rodata        0x0000000080031678        0xa src/object/combo.o
+ *fill*         0x0000000080031682        0x2 
+ .rodata        0x0000000080031684       0x10 mips/common/crt0/crt0.o
+ *fill*         0x0000000080031694        0x4 
+ .rdata         0x0000000080031698      0x220 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libc2.a(prnt.o)
+ .rdata         0x00000000800318b8       0xe0 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libc2.a(sprintf.o)
+ .rdata         0x0000000080031998       0x50 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(cdr_1.o)
+ .rdata         0x00000000800319e8       0x20 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(event.o)
+ .rdata         0x0000000080031a08      0x1f0 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(iso9660.o)
+ .rdata         0x0000000080031bf8      0x260 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(bios_1.o)
+ .rdata         0x0000000080031e58       0x70 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libetc.a(intr.o)
+ .rdata         0x0000000080031ec8       0x30 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libetc.a(intr_dma.o)
+ .rdata         0x0000000080031ef8       0x10 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libetc.a(vsync.o)
+ .rdata         0x0000000080031f08       0xa0 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libgpu.a(font.o)
+ .rdata         0x0000000080031fa8      0x220 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libgpu.a(sys.o)
+ .rdata         0x00000000800321c8       0x30 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libgpu.a(t00.o)
+ .rdata         0x00000000800321f8       0x20 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(sstick.o)
+ .rdata         0x0000000080032218       0x40 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_sca.o)
+ .rdata         0x0000000080032258       0x40 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_sva.o)
+ .rdata         0x0000000080032298       0x50 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(spu.o)
+ .rdata         0x00000000800322e8       0x10 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libc2.a(puts.o)
+                0x0000000080032300                . = ALIGN (0x10)
+ *fill*         0x00000000800322f8        0x8 
+                0x0000000080032300                __preinit_array_start = .
+ *(.preinit_array)
+                0x0000000080032300                __preinit_array_end = .
+                0x0000000080032300                . = ALIGN (0x10)
+                0x0000000080032300                __init_array_start = .
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array)
+                0x0000000080032300                . = ALIGN (0x10)
+ *crtbegin.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *crtend.o(.ctors)
+                0x0000000080032300                __init_array_end = .
+                0x0000000080032300                . = ALIGN (0x10)
+                0x0000000080032300                __fini_array_start = .
+ *(.fini_array)
+ *(SORT_BY_NAME(.fini_array.*))
+ *crtbegin.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *crtend.o(.dtors)
+                0x0000000080032300                __fini_array_end = .
+                0x0000000080032300                __build_id = .
+ *(.note.gnu.build-id)
+                0x0000000080032300                __build_id_end = .
+
+.rel.dyn        0x0000000080032300        0x0
+ .rel.dyn       0x0000000080032300        0x0 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libgpu.a(sys.o)
+
+.rodata1
+ *(.rodata1)
+                0x0000000080032300                __data_start = .
+
+.data           0x0000000080032300     0x2d00
+ *(.a0table)
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x0000000080032300       0xb4 src/menu.o
+ .data          0x00000000800323b4       0x50 src/psx/audio.o
+ .data          0x0000000080032404       0x78 src/character/bf.o
+ .data          0x000000008003247c       0x78 src/character/bfweeb.o
+ *fill*         0x00000000800324f4        0x4 
+ .data          0x00000000800324f8       0x20 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(counter.o)
+ .data          0x0000000080032518       0x10 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(pad.o)
+ .data          0x0000000080032528       0x10 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libc2.a(putchar.o)
+ .data          0x0000000080032538       0x10 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libc2.a(sprintf.o)
+ .data          0x0000000080032548       0x90 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libc2.a(ctype_0.o)
+                0x0000000080032548                _ctype_
+ .data          0x00000000800325d8       0x40 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(cdr_1.o)
+ .data          0x0000000080032618       0x10 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(event.o)
+                0x0000000080032618                CD_cbread
+                0x000000008003261c                CD_read_dma_mode
+ .data          0x0000000080032628       0x10 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(iso9660.o)
+ .data          0x0000000080032638       0x80 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(s_016.o)
+ .data          0x00000000800326b8      0x310 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(bios_1.o)
+                0x00000000800326c0                CD_cbsync
+                0x00000000800326c4                CD_cbready
+                0x00000000800326c8                CD_debug
+                0x00000000800326cc                CD_status
+                0x00000000800326d0                CD_status1
+                0x00000000800326d4                CD_nopen
+                0x00000000800326d8                CD_pos
+                0x00000000800326dc                CD_mode
+                0x00000000800326dd                CD_com
+                0x00000000800326e0                DS_active
+                0x00000000800326e4                CD_comstr
+                0x0000000080032764                CD_intstr
+ .data          0x00000000800329c8       0x20 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(bios_2.o)
+ .data          0x00000000800329e8       0x20 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(bios_3.o)
+ .data          0x0000000080032a08     0x1100 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libetc.a(intr.o)
+ .data          0x0000000080033b08       0x30 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libetc.a(intr_dma.o)
+ .data          0x0000000080033b38       0x30 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libetc.a(intr_vb.o)
+                0x0000000080033b58                Vcount
+ .data          0x0000000080033b68       0x10 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libetc.a(vmode.o)
+ .data          0x0000000080033b78       0x20 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libetc.a(vsync.o)
+                0x0000000080033b88                Hcount
+ .data          0x0000000080033b98      0xb90 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libgpu.a(font.o)
+                0x0000000080033b98                Font
+ .data          0x0000000080034728      0x1a0 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libgpu.a(sys.o)
+                0x0000000080034774                GPU_printf
+                0x0000000080034778                GEnv
+                0x00000000800348a0                _qin
+                0x00000000800348a4                _qout
+ .data          0x00000000800348c8       0x30 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(ssinit.o)
+                0x00000000800348c8                _snd_vmask
+ .data          0x00000000800348f8       0x20 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(ssstart.o)
+                0x00000000800348f8                _snd_seq_tick_env
+ .data          0x0000000080034918       0x80 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_ini.o)
+                0x0000000080034920                _spu_EVdma
+                0x0000000080034924                _spu_keystat
+                0x0000000080034928                _spu_trans_mode
+                0x000000008003492c                _spu_rev_flag
+                0x0000000080034930                _spu_rev_reserve_wa
+                0x0000000080034934                _spu_rev_offsetaddr
+                0x0000000080034938                _spu_rev_attr
+                0x000000008003494c                _spu_RQvoice
+                0x0000000080034950                _spu_RQmask
+                0x0000000080034954                _spu_voice_centerNote
+                0x0000000080034984                _spu_env
+                0x0000000080034988                _spu_isCalled
+ .data          0x0000000080034998       0x10 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_m.o)
+                0x0000000080034998                _spu_AllocBlockNum
+                0x000000008003499c                _spu_AllocLastNum
+                0x00000000800349a0                _spu_memList
+ .data          0x00000000800349a8       0x30 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_rmp0.o)
+                0x00000000800349a8                _spu_rev_startaddr
+ .data          0x00000000800349d8       0x60 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(spu.o)
+                0x00000000800349d8                _spu_RXX
+                0x00000000800349f0                _spu_tsa
+                0x00000000800349f4                _spu_transMode
+                0x00000000800349f8                _spu_addrMode
+                0x00000000800349fc                _spu_mem_mode
+                0x0000000080034a00                _spu_mem_mode_plus
+                0x0000000080034a04                _spu_mem_mode_unit
+                0x0000000080034a08                _spu_mem_mode_unitM
+                0x0000000080034a0c                _spu_inTransfer
+                0x0000000080034a10                _spu_transferCallback
+                0x0000000080034a14                _spu_IRQCallback
+ .data          0x0000000080034a38      0x400 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(zerobuf.o)
+                0x0000000080034a38                _spu_zerobuf
+ .data          0x0000000080034e38      0x120 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_n2p.o)
+ *(.data1)
+ *(.sdata .sdata.* .gnu.linkonce.s.*)
+ *(.sdata2 .sdata2.* .gnu.linkonce.s2.*)
+ *(.got.plt)
+ *(.got)
+                0x0000000080035000                . = ALIGN (0x800)
+ *fill*         0x0000000080034f58       0xa8 
+                0x0000000080035000                __data_end = .
+                0x0000000080035000                __fdata_end = .
+                0x0000000080035000                __bss_start = .
+
+.sbss           0x0000000080035000   0x1c9da4
+ *(.dynsbss)
+ *(.sbss .sbss.* .gnu.linkonce.sb.*)
+ .sbss          0x0000000080035000        0x4 src/main.o
+                0x0000000080035000                gameloop
+ .sbss          0x0000000080035004        0xc src/mem.o
+ .sbss          0x0000000080035010        0x4 src/random.o
+ .sbss          0x0000000080035014        0x8 src/trans.o
+ .sbss          0x000000008003501c        0x8 src/psx/psx.o
+                0x000000008003501c                my_argv
+                0x0000000080035020                my_argc
+ .sbss          0x0000000080035024        0x8 src/psx/gfx.o
+                0x0000000080035024                db
+ .sbss          0x000000008003502c       0x10 src/psx/audio.o
+ .sbss          0x000000008003503c       0x10 src/psx/pad.o
+                0x000000008003503c                pad_state_2
+                0x0000000080035044                pad_state
+ .sbss          0x000000008003504c       0x28 src/psx/timer.o
+                0x000000008003504c                timer_brokeconf
+                0x0000000080035050                timer_secbase
+                0x0000000080035054                timer_dt
+                0x0000000080035058                timer_sec
+                0x000000008003505c                timer_persec
+                0x0000000080035060                timer_countbase
+                0x0000000080035064                timer_lcount
+                0x0000000080035068                timer_count
+                0x000000008003506c                animf_count
+                0x0000000080035070                frame_count
+ *(.scommon)
+ *(.dynbss)
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x0000000080035074   0x1b0200 src/main.o
+                0x0000000080035074                error_msg
+ .bss           0x00000000801e5274      0x1e4 src/menu.o
+                0x00000000801e5274                menu_text_buffer
+ .bss           0x00000000801e5458      0x174 src/stage.o
+                0x00000000801e5458                stage
+ .bss           0x00000000801e55cc    0x10120 src/psx/gfx.o
+                0x00000000801e55cc                draw
+                0x00000000801e5684                disp
+ .bss           0x00000000801f56ec      0x1c8 src/psx/audio.o
+ .bss           0x00000000801f58b4       0x44 src/psx/pad.o
+ .bss           0x00000000801f58f8       0x10 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(pad.o)
+                0x00000000801f58f8                _apiPadPatch
+ .bss           0x00000000801f5908       0x10 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(patch.o)
+ .bss           0x00000000801f5918       0x10 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(chclrpad.o)
+ .bss           0x00000000801f5928       0x20 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libc2.a(putchar.o)
+ .bss           0x00000000801f5948     0x2400 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(iso9660.o)
+ .bss           0x00000000801f7d48       0x34 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(bios_1.o)
+                0x00000000801f7d78                StMode
+ *fill*         0x00000000801f7d7c        0x4 
+ .bss           0x00000000801f7d80     0x4410 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libgpu.a(font.o)
+ .bss           0x00000000801fc190     0x1850 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libgpu.a(sys.o)
+                0x00000000801fc1e0                _que
+ .bss           0x00000000801fd9e0       0x10 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libgpu.a(t00.o)
+ .bss           0x00000000801fd9f0      0x93a C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(ssinit.o)
+                0x00000000801fd9f0                _SsMarkCallback
+                0x00000000801fe1f0                VBLANK_MINUS
+                0x00000000801fe1f8                _snd_openflag
+                0x00000000801fe200                _snd_ev_flag
+                0x00000000801fe208                SsFCALL
+                0x00000000801fe2a0                _ss_score
+                0x00000000801fe320                _snd_seq_s_max
+                0x00000000801fe328                _snd_seq_t_max
+ *fill*         0x00000000801fe32a        0x6 
+ .bss           0x00000000801fe330      0x110 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(vm_init.o)
+ .bss           0x00000000801fe440      0x76a C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(vm_f.o)
+                0x00000000801fe440                _svm_envx_ptr
+                0x00000000801fe448                _svm_envx_hist
+                0x00000000801fe488                _svm_voice
+                0x00000000801fe9c8                _svm_okof1
+                0x00000000801fe9d0                _svm_okon1
+                0x00000000801fe9d8                _svm_okof2
+                0x00000000801fe9e0                _svm_okon2
+                0x00000000801fe9e8                _autovol
+                0x00000000801fe9f0                _autopan
+                0x00000000801fe9f8                _svm_sreg_dirty
+                0x00000000801fea10                _svm_sreg_buf
+                0x00000000801feb90                _svm_orev2
+                0x00000000801feb98                _svm_orev1
+                0x00000000801feba0                _svm_onos2
+                0x00000000801feba8                _svm_onos1
+ *fill*         0x00000000801febaa        0x6 
+ .bss           0x00000000801febb0      0x1dc C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(vm_g.o)
+                0x00000000801febb0                _svm_stereo_mono
+                0x00000000801febb8                _svm_vab_not_send_size
+                0x00000000801febc0                _svm_rattr
+                0x00000000801febd8                _svm_vab_used
+                0x00000000801febe8                _SsVmMaxVoice
+                0x00000000801febf0                _svm_vab_count
+                0x00000000801febf8                kMaxPrograms
+                0x00000000801fec00                _svm_cur
+                0x00000000801fec20                _svm_damper
+                0x00000000801fec28                _svm_auto_kof_mode
+                0x00000000801fec30                _svm_vab_vh
+                0x00000000801fec70                _svm_vab_pg
+                0x00000000801fecb0                _svm_vab_tn
+                0x00000000801fecf0                _svm_vab_start
+                0x00000000801fed30                _svm_vab_total
+                0x00000000801fed70                _svm_vh
+                0x00000000801fed78                _svm_pg
+                0x00000000801fed80                _svm_tn
+                0x00000000801fed88                _svm_vg
+ *fill*         0x00000000801fed8c        0x4 
+ .bss           0x00000000801fed90       0x14 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(spu.o)
+                0x00000000801fed90                _spu_RQ
+ *(COMMON)
+                0x00000000801feda4                . = ALIGN (0x4)
+                0x00000000801feda4                __bss_end = .
+                0x00000000801feda4                __heap_start = __heap_base
+                0x000000008000f800                . = (ADDR (.text) - 0x800)
+                0x000000008000f800                __end = .
+
+/DISCARD/
+ *(.MIPS.abiflags)
+
+/DISCARD/
+ *(.rel.iplt)
+ *(.rela.iplt)
+ *(.rel.plt)
+ *(.rela.plt)
+ *(.plt)
+ *(.iplt)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+OUTPUT(funkin.elf elf32-littlemips)
+
+.reginfo        0x0000000000000000       0x18
+ .reginfo       0x0000000000000000       0x18 src/main.o
+
+.mdebug.abi32   0x0000000000000000        0x0
+ .mdebug.abi32  0x0000000000000000        0x0 src/main.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/mem.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/mutil.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/random.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/archive.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/font.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/trans.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/loadscr.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/menu.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/stage.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/psx/psx.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/psx/io.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/psx/gfx.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/psx/audio.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/psx/pad.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/psx/timer.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/stage/dummy.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/stage/week1.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/stage/week2.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/stage/week3.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/stage/week4.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/stage/week5.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/stage/week7.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/animation.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/character.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/character/bf.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/character/bfweeb.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/character/speaker.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/character/dad.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/character/spook.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/character/pico.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/character/mom.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/character/xmasp.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/character/senpai.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/character/senpaim.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/character/tank.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/character/gf.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/character/clucky.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/object.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/object/combo.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/object/splash.o
+
+.comment        0x0000000000000000       0x12
+ .comment       0x0000000000000000       0x12 src/main.o
+                                         0x13 (size before relaxing)
+ .comment       0x0000000000000012       0x13 src/mem.o
+ .comment       0x0000000000000012       0x13 src/mutil.o
+ .comment       0x0000000000000012       0x13 src/random.o
+ .comment       0x0000000000000012       0x13 src/archive.o
+ .comment       0x0000000000000012       0x13 src/font.o
+ .comment       0x0000000000000012       0x13 src/trans.o
+ .comment       0x0000000000000012       0x13 src/loadscr.o
+ .comment       0x0000000000000012       0x13 src/menu.o
+ .comment       0x0000000000000012       0x13 src/stage.o
+ .comment       0x0000000000000012       0x13 src/psx/psx.o
+ .comment       0x0000000000000012       0x13 src/psx/io.o
+ .comment       0x0000000000000012       0x13 src/psx/gfx.o
+ .comment       0x0000000000000012       0x13 src/psx/audio.o
+ .comment       0x0000000000000012       0x13 src/psx/pad.o
+ .comment       0x0000000000000012       0x13 src/psx/timer.o
+ .comment       0x0000000000000012       0x13 src/stage/dummy.o
+ .comment       0x0000000000000012       0x13 src/stage/week1.o
+ .comment       0x0000000000000012       0x13 src/stage/week2.o
+ .comment       0x0000000000000012       0x13 src/stage/week3.o
+ .comment       0x0000000000000012       0x13 src/stage/week4.o
+ .comment       0x0000000000000012       0x13 src/stage/week5.o
+ .comment       0x0000000000000012       0x13 src/stage/week7.o
+ .comment       0x0000000000000012       0x13 src/animation.o
+ .comment       0x0000000000000012       0x13 src/character.o
+ .comment       0x0000000000000012       0x13 src/character/bf.o
+ .comment       0x0000000000000012       0x13 src/character/bfweeb.o
+ .comment       0x0000000000000012       0x13 src/character/speaker.o
+ .comment       0x0000000000000012       0x13 src/character/dad.o
+ .comment       0x0000000000000012       0x13 src/character/spook.o
+ .comment       0x0000000000000012       0x13 src/character/pico.o
+ .comment       0x0000000000000012       0x13 src/character/mom.o
+ .comment       0x0000000000000012       0x13 src/character/xmasp.o
+ .comment       0x0000000000000012       0x13 src/character/senpai.o
+ .comment       0x0000000000000012       0x13 src/character/senpaim.o
+ .comment       0x0000000000000012       0x13 src/character/tank.o
+ .comment       0x0000000000000012       0x13 src/character/gf.o
+ .comment       0x0000000000000012       0x13 src/character/clucky.o
+ .comment       0x0000000000000012       0x13 src/object.o
+ .comment       0x0000000000000012       0x13 src/object/combo.o
+ .comment       0x0000000000000012       0x13 src/object/splash.o
+
+.gnu.attributes
+                0x0000000000000000       0x10
+ .gnu.attributes
+                0x0000000000000000       0x10 src/main.o
+ .gnu.attributes
+                0x0000000000000010       0x10 src/mem.o
+ .gnu.attributes
+                0x0000000000000020       0x10 src/mutil.o
+ .gnu.attributes
+                0x0000000000000030       0x10 src/random.o
+ .gnu.attributes
+                0x0000000000000040       0x10 src/archive.o
+ .gnu.attributes
+                0x0000000000000050       0x10 src/font.o
+ .gnu.attributes
+                0x0000000000000060       0x10 src/trans.o
+ .gnu.attributes
+                0x0000000000000070       0x10 src/loadscr.o
+ .gnu.attributes
+                0x0000000000000080       0x10 src/menu.o
+ .gnu.attributes
+                0x0000000000000090       0x10 src/stage.o
+ .gnu.attributes
+                0x00000000000000a0       0x10 src/psx/psx.o
+ .gnu.attributes
+                0x00000000000000b0       0x10 src/psx/io.o
+ .gnu.attributes
+                0x00000000000000c0       0x10 src/psx/gfx.o
+ .gnu.attributes
+                0x00000000000000d0       0x10 src/psx/audio.o
+ .gnu.attributes
+                0x00000000000000e0       0x10 src/psx/pad.o
+ .gnu.attributes
+                0x00000000000000f0       0x10 src/psx/timer.o
+ .gnu.attributes
+                0x0000000000000100       0x10 src/stage/dummy.o
+ .gnu.attributes
+                0x0000000000000110       0x10 src/stage/week1.o
+ .gnu.attributes
+                0x0000000000000120       0x10 src/stage/week2.o
+ .gnu.attributes
+                0x0000000000000130       0x10 src/stage/week3.o
+ .gnu.attributes
+                0x0000000000000140       0x10 src/stage/week4.o
+ .gnu.attributes
+                0x0000000000000150       0x10 src/stage/week5.o
+ .gnu.attributes
+                0x0000000000000160       0x10 src/stage/week7.o
+ .gnu.attributes
+                0x0000000000000170       0x10 src/animation.o
+ .gnu.attributes
+                0x0000000000000180       0x10 src/character.o
+ .gnu.attributes
+                0x0000000000000190       0x10 src/character/bf.o
+ .gnu.attributes
+                0x00000000000001a0       0x10 src/character/bfweeb.o
+ .gnu.attributes
+                0x00000000000001b0       0x10 src/character/speaker.o
+ .gnu.attributes
+                0x00000000000001c0       0x10 src/character/dad.o
+ .gnu.attributes
+                0x00000000000001d0       0x10 src/character/spook.o
+ .gnu.attributes
+                0x00000000000001e0       0x10 src/character/pico.o
+ .gnu.attributes
+                0x00000000000001f0       0x10 src/character/mom.o
+ .gnu.attributes
+                0x0000000000000200       0x10 src/character/xmasp.o
+ .gnu.attributes
+                0x0000000000000210       0x10 src/character/senpai.o
+ .gnu.attributes
+                0x0000000000000220       0x10 src/character/senpaim.o
+ .gnu.attributes
+                0x0000000000000230       0x10 src/character/tank.o
+ .gnu.attributes
+                0x0000000000000240       0x10 src/character/gf.o
+ .gnu.attributes
+                0x0000000000000250       0x10 src/character/clucky.o
+ .gnu.attributes
+                0x0000000000000260       0x10 src/object.o
+ .gnu.attributes
+                0x0000000000000270       0x10 src/object/combo.o
+ .gnu.attributes
+                0x0000000000000280       0x10 src/object/splash.o
+ .gnu.attributes
+                0x0000000000000290       0x10 mips/common/crt0/crt0.o
+
+.pdr            0x0000000000000000        0x0
+ .pdr           0x0000000000000000        0x0 mips/common/crt0/crt0.o
+
+.note           0x0000000000000000     0x3830
+ .note          0x0000000000000000       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(a36.o)
+ .note          0x0000000000000074       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(a37.o)
+ .note          0x00000000000000e8       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(a91.o)
+ .note          0x000000000000015c       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(counter.o)
+ .note          0x00000000000001d0       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(l10.o)
+ .note          0x0000000000000244       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(pad.o)
+ .note          0x00000000000002b8       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(patch.o)
+ .note          0x000000000000032c       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(a18.o)
+ .note          0x00000000000003a0       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(a19.o)
+ .note          0x0000000000000414       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(a21.o)
+ .note          0x0000000000000488       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(c68.o)
+ .note          0x00000000000004fc       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(chclrpad.o)
+ .note          0x0000000000000570       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(l02.o)
+ .note          0x00000000000005e4       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(l03.o)
+ .note          0x0000000000000658       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libc2.a(memcpy.o)
+ .note          0x00000000000006cc       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libc2.a(memset.o)
+ .note          0x0000000000000740       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libc2.a(printf.o)
+ .note          0x00000000000007b4       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libc2.a(prnt.o)
+ .note          0x0000000000000828       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libc2.a(putchar.o)
+ .note          0x000000000000089c       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libc2.a(sprintf.o)
+ .note          0x0000000000000910       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libc2.a(strcpy.o)
+ .note          0x0000000000000984       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libc2.a(strlen.o)
+ .note          0x00000000000009f8       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libc2.a(strncmp.o)
+ .note          0x0000000000000a6c       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libc2.a(ctype_0.o)
+ .note          0x0000000000000ae0       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libc2.a(memchr.o)
+ .note          0x0000000000000b54       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libc2.a(memmove.o)
+ .note          0x0000000000000bc8       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(cdr_1.o)
+ .note          0x0000000000000c3c       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(event.o)
+ .note          0x0000000000000cb0       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(iso9660.o)
+ .note          0x0000000000000d24       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(s_002.o)
+ .note          0x0000000000000d98       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(s_003.o)
+ .note          0x0000000000000e0c       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(s_004.o)
+ .note          0x0000000000000e80       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(s_006.o)
+ .note          0x0000000000000ef4       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(s_008.o)
+ .note          0x0000000000000f68       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(s_013.o)
+ .note          0x0000000000000fdc       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(s_014.o)
+ .note          0x0000000000001050       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(s_015.o)
+ .note          0x00000000000010c4       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(s_016.o)
+ .note          0x0000000000001138       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(s_020.o)
+ .note          0x00000000000011ac       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(s_021.o)
+ .note          0x0000000000001220       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(s_022.o)
+ .note          0x0000000000001294       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(s_023.o)
+ .note          0x0000000000001308       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(s_024.o)
+ .note          0x000000000000137c       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(sys.o)
+ .note          0x00000000000013f0       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(bios_1.o)
+ .note          0x0000000000001464       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(bios_2.o)
+ .note          0x00000000000014d8       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libcd.a(bios_3.o)
+ .note          0x000000000000154c       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libetc.a(intr.o)
+ .note          0x00000000000015c0       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libetc.a(intr_dma.o)
+ .note          0x0000000000001634       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libetc.a(intr_vb.o)
+ .note          0x00000000000016a8       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libetc.a(vmode.o)
+ .note          0x000000000000171c       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libetc.a(vsync.o)
+ .note          0x0000000000001790       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libgpu.a(e03.o)
+ .note          0x0000000000001804       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libgpu.a(e04.o)
+ .note          0x0000000000001878       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libgpu.a(font.o)
+ .note          0x00000000000018ec       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libgpu.a(p06.o)
+ .note          0x0000000000001960       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libgpu.a(p09.o)
+ .note          0x00000000000019d4       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libgpu.a(p10.o)
+ .note          0x0000000000001a48       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libgpu.a(p20.o)
+ .note          0x0000000000001abc       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libgpu.a(p26.o)
+ .note          0x0000000000001b30       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libgpu.a(p41.o)
+ .note          0x0000000000001ba4       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libgpu.a(sys.o)
+ .note          0x0000000000001c18       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libgpu.a(t00.o)
+ .note          0x0000000000001c8c       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libgpu.a(e00.o)
+ .note          0x0000000000001d00       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libgpu.a(e02.o)
+ .note          0x0000000000001d74       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libgpu.a(p00.o)
+ .note          0x0000000000001de8       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libgpu.a(p01.o)
+ .note          0x0000000000001e5c       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(ssinit_c.o)
+ .note          0x0000000000001ed0       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(sssv.o)
+ .note          0x0000000000001f44       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(sstick.o)
+ .note          0x0000000000001fb8       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(ssinit.o)
+ .note          0x000000000000202c       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(ssstart.o)
+ .note          0x00000000000020a0       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(vm_init.o)
+ .note          0x0000000000002114       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(vm_nowof.o)
+ .note          0x0000000000002188       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(sscall.o)
+ .note          0x00000000000021fc       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(ssstop.o)
+ .note          0x0000000000002270       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(tempo.o)
+ .note          0x00000000000022e4       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(vm_doff.o)
+ .note          0x0000000000002358       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(vm_f.o)
+ .note          0x00000000000023cc       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(vm_g.o)
+ .note          0x0000000000002440       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(vm_seq.o)
+ .note          0x00000000000024b4       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(vm_vsu.o)
+ .note          0x0000000000002528       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(cres.o)
+ .note          0x000000000000259c       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(pause.o)
+ .note          0x0000000000002610       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(play.o)
+ .note          0x0000000000002684       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(replay.o)
+ .note          0x00000000000026f8       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(midiread.o)
+ .note          0x000000000000276c       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(miditime.o)
+ .note          0x00000000000027e0       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libsnd.a(next.o)
+ .note          0x0000000000002854       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_crwa.o)
+ .note          0x00000000000028c8       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_gnv.o)
+ .note          0x000000000000293c       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_grv.o)
+ .note          0x00000000000029b0       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_gvex.o)
+ .note          0x0000000000002a24       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_i.o)
+ .note          0x0000000000002a98       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_ini.o)
+ .note          0x0000000000002b0c       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_it.o)
+ .note          0x0000000000002b80       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_m.o)
+ .note          0x0000000000002bf4       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_m_init.o)
+ .note          0x0000000000002c68       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_m_util.o)
+ .note          0x0000000000002cdc       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_rmp0.o)
+ .note          0x0000000000002d50       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_sca.o)
+ .note          0x0000000000002dc4       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_sk.o)
+ .note          0x0000000000002e38       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_snv.o)
+ .note          0x0000000000002eac       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_srv.o)
+ .note          0x0000000000002f20       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_sva.o)
+ .note          0x0000000000002f94       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(spu.o)
+ .note          0x0000000000003008       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(zerobuf.o)
+ .note          0x000000000000307c       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_dcb.o)
+ .note          0x00000000000030f0       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_gav.o)
+ .note          0x0000000000003164       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_n2p.o)
+ .note          0x00000000000031d8       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libspu.a(s_sav.o)
+ .note          0x000000000000324c       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(a07.o)
+ .note          0x00000000000032c0       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(a08.o)
+ .note          0x0000000000003334       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(a10.o)
+ .note          0x00000000000033a8       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(a12.o)
+ .note          0x000000000000341c       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(a23.o)
+ .note          0x0000000000003490       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(a24.o)
+ .note          0x0000000000003504       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(a25.o)
+ .note          0x0000000000003578       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(a53.o)
+ .note          0x00000000000035ec       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(c114.o)
+ .note          0x0000000000003660       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libapi.a(c73.o)
+ .note          0x00000000000036d4       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libc2.a(puts.o)
+ .note          0x0000000000003748       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libc2.a(setjmp.o)
+ .note          0x00000000000037bc       0x74 C:/Users/H/Music/master/PSXFunkinCharaMod-master/mips/psyq/lib\libc2.a(strcmp.o)
+
+.debug_info     0x0000000000000000    0x23e12
+ .debug_info    0x0000000000000000      0x42c src/main.o
+ .debug_info    0x000000000000042c      0x310 src/mem.o
+ .debug_info    0x000000000000073c      0x1a2 src/mutil.o
+ .debug_info    0x00000000000008de      0x1d6 src/random.o
+ .debug_info    0x0000000000000ab4      0x218 src/archive.o
+ .debug_info    0x0000000000000ccc      0x92e src/font.o
+ .debug_info    0x00000000000015fa      0x3af src/trans.o
+ .debug_info    0x00000000000019a9      0x3d3 src/loadscr.o
+ .debug_info    0x0000000000001d7c     0x2b12 src/menu.o
+ .debug_info    0x000000000000488e     0x3b0a src/stage.o
+ .debug_info    0x0000000000008398       0xf9 src/psx/psx.o
+ .debug_info    0x0000000000008491      0xa91 src/psx/io.o
+ .debug_info    0x0000000000008f22     0x1bae src/psx/gfx.o
+ .debug_info    0x000000000000aad0     0x11fe src/psx/audio.o
+ .debug_info    0x000000000000bcce      0x383 src/psx/pad.o
+ .debug_info    0x000000000000c051      0x390 src/psx/timer.o
+ .debug_info    0x000000000000c3e1      0x211 src/stage/dummy.o
+ .debug_info    0x000000000000c5f2      0xf87 src/stage/week1.o
+ .debug_info    0x000000000000d579      0xde8 src/stage/week2.o
+ .debug_info    0x000000000000e361     0x14e7 src/stage/week3.o
+ .debug_info    0x000000000000f848     0x17a0 src/stage/week4.o
+ .debug_info    0x0000000000010fe8     0x12ec src/stage/week5.o
+ .debug_info    0x00000000000122d4     0x14fc src/stage/week7.o
+ .debug_info    0x00000000000137d0      0x2a7 src/animation.o
+ .debug_info    0x0000000000013a77      0xf57 src/character.o
+ .debug_info    0x00000000000149ce     0x1742 src/character/bf.o
+ .debug_info    0x0000000000016110     0x16c5 src/character/bfweeb.o
+ .debug_info    0x00000000000177d5      0xdd3 src/character/speaker.o
+ .debug_info    0x00000000000185a8      0x998 src/character/dad.o
+ .debug_info    0x0000000000018f40     0x11c2 src/character/spook.o
+ .debug_info    0x000000000001a102      0x994 src/character/pico.o
+ .debug_info    0x000000000001aa96     0x12e1 src/character/mom.o
+ .debug_info    0x000000000001bd77      0x9fc src/character/xmasp.o
+ .debug_info    0x000000000001c773     0x115a src/character/senpai.o
+ .debug_info    0x000000000001d8cd     0x115a src/character/senpaim.o
+ .debug_info    0x000000000001ea27     0x13c1 src/character/tank.o
+ .debug_info    0x000000000001fde8     0x130f src/character/gf.o
+ .debug_info    0x00000000000210f7      0x9a6 src/character/clucky.o
+ .debug_info    0x0000000000021a9d      0x2ee src/object.o
+ .debug_info    0x0000000000021d8b     0x112d src/object/combo.o
+ .debug_info    0x0000000000022eb8      0xf36 src/object/splash.o
+ .debug_info    0x0000000000023dee       0x24 mips/common/crt0/crt0.o
+
+.debug_abbrev   0x0000000000000000     0x70f6
+ .debug_abbrev  0x0000000000000000      0x1ce src/main.o
+ .debug_abbrev  0x00000000000001ce      0x1af src/mem.o
+ .debug_abbrev  0x000000000000037d      0x12f src/mutil.o
+ .debug_abbrev  0x00000000000004ac      0x135 src/random.o
+ .debug_abbrev  0x00000000000005e1      0x178 src/archive.o
+ .debug_abbrev  0x0000000000000759      0x2ff src/font.o
+ .debug_abbrev  0x0000000000000a58      0x1a9 src/trans.o
+ .debug_abbrev  0x0000000000000c01      0x17b src/loadscr.o
+ .debug_abbrev  0x0000000000000d7c      0x539 src/menu.o
+ .debug_abbrev  0x00000000000012b5      0x631 src/stage.o
+ .debug_abbrev  0x00000000000018e6       0xc2 src/psx/psx.o
+ .debug_abbrev  0x00000000000019a8      0x2ca src/psx/io.o
+ .debug_abbrev  0x0000000000001c72      0x423 src/psx/gfx.o
+ .debug_abbrev  0x0000000000002095      0x456 src/psx/audio.o
+ .debug_abbrev  0x00000000000024eb      0x224 src/psx/pad.o
+ .debug_abbrev  0x000000000000270f      0x1d4 src/psx/timer.o
+ .debug_abbrev  0x00000000000028e3      0x150 src/stage/dummy.o
+ .debug_abbrev  0x0000000000002a33      0x284 src/stage/week1.o
+ .debug_abbrev  0x0000000000002cb7      0x284 src/stage/week2.o
+ .debug_abbrev  0x0000000000002f3b      0x30c src/stage/week3.o
+ .debug_abbrev  0x0000000000003247      0x368 src/stage/week4.o
+ .debug_abbrev  0x00000000000035af      0x288 src/stage/week5.o
+ .debug_abbrev  0x0000000000003837      0x327 src/stage/week7.o
+ .debug_abbrev  0x0000000000003b5e      0x18b src/animation.o
+ .debug_abbrev  0x0000000000003ce9      0x2e6 src/character.o
+ .debug_abbrev  0x0000000000003fcf      0x402 src/character/bf.o
+ .debug_abbrev  0x00000000000043d1      0x408 src/character/bfweeb.o
+ .debug_abbrev  0x00000000000047d9      0x2a9 src/character/speaker.o
+ .debug_abbrev  0x0000000000004a82      0x2d3 src/character/dad.o
+ .debug_abbrev  0x0000000000004d55      0x333 src/character/spook.o
+ .debug_abbrev  0x0000000000005088      0x2d2 src/character/pico.o
+ .debug_abbrev  0x000000000000535a      0x331 src/character/mom.o
+ .debug_abbrev  0x000000000000568b      0x2d2 src/character/xmasp.o
+ .debug_abbrev  0x000000000000595d      0x335 src/character/senpai.o
+ .debug_abbrev  0x0000000000005c92      0x335 src/character/senpaim.o
+ .debug_abbrev  0x0000000000005fc7      0x371 src/character/tank.o
+ .debug_abbrev  0x0000000000006338      0x340 src/character/gf.o
+ .debug_abbrev  0x0000000000006678      0x2d2 src/character/clucky.o
+ .debug_abbrev  0x000000000000694a      0x1ea src/object.o
+ .debug_abbrev  0x0000000000006b34      0x2f2 src/object/combo.o
+ .debug_abbrev  0x0000000000006e26      0x2bc src/object/splash.o
+ .debug_abbrev  0x00000000000070e2       0x14 mips/common/crt0/crt0.o
+
+.debug_loclists
+                0x0000000000000000     0xa2e1
+ .debug_loclists
+                0x0000000000000000       0x3c src/main.o
+ .debug_loclists
+                0x000000000000003c      0x179 src/mem.o
+ .debug_loclists
+                0x00000000000001b5       0x7b src/mutil.o
+ .debug_loclists
+                0x0000000000000230       0x23 src/random.o
+ .debug_loclists
+                0x0000000000000253       0x73 src/archive.o
+ .debug_loclists
+                0x00000000000002c6      0x6b8 src/font.o
+ .debug_loclists
+                0x000000000000097e       0xa4 src/trans.o
+ .debug_loclists
+                0x0000000000000a22      0xb05 src/menu.o
+ .debug_loclists
+                0x0000000000001527     0x2297 src/stage.o
+ .debug_loclists
+                0x00000000000037be      0x413 src/psx/io.o
+ .debug_loclists
+                0x0000000000003bd1     0x22fc src/psx/gfx.o
+ .debug_loclists
+                0x0000000000005ecd      0x475 src/psx/audio.o
+ .debug_loclists
+                0x0000000000006342       0x8e src/psx/pad.o
+ .debug_loclists
+                0x00000000000063d0       0x86 src/psx/timer.o
+ .debug_loclists
+                0x0000000000006456       0x55 src/stage/dummy.o
+ .debug_loclists
+                0x00000000000064ab      0x14b src/stage/week1.o
+ .debug_loclists
+                0x00000000000065f6       0xc0 src/stage/week2.o
+ .debug_loclists
+                0x00000000000066b6      0x2b3 src/stage/week3.o
+ .debug_loclists
+                0x0000000000006969      0x6d9 src/stage/week4.o
+ .debug_loclists
+                0x0000000000007042      0x27a src/stage/week5.o
+ .debug_loclists
+                0x00000000000072bc      0x2ea src/stage/week7.o
+ .debug_loclists
+                0x00000000000075a6       0xd8 src/animation.o
+ .debug_loclists
+                0x000000000000767e      0x1ac src/character.o
+ .debug_loclists
+                0x000000000000782a      0x412 src/character/bf.o
+ .debug_loclists
+                0x0000000000007c3c      0x3f1 src/character/bfweeb.o
+ .debug_loclists
+                0x000000000000802d      0x102 src/character/speaker.o
+ .debug_loclists
+                0x000000000000812f      0x277 src/character/dad.o
+ .debug_loclists
+                0x00000000000083a6      0x2c5 src/character/spook.o
+ .debug_loclists
+                0x000000000000866b      0x277 src/character/pico.o
+ .debug_loclists
+                0x00000000000088e2      0x2a6 src/character/mom.o
+ .debug_loclists
+                0x0000000000008b88      0x278 src/character/xmasp.o
+ .debug_loclists
+                0x0000000000008e00      0x283 src/character/senpai.o
+ .debug_loclists
+                0x0000000000009083      0x295 src/character/senpaim.o
+ .debug_loclists
+                0x0000000000009318      0x3af src/character/tank.o
+ .debug_loclists
+                0x00000000000096c7      0x2c5 src/character/gf.o
+ .debug_loclists
+                0x000000000000998c      0x277 src/character/clucky.o
+ .debug_loclists
+                0x0000000000009c03      0x15a src/object.o
+ .debug_loclists
+                0x0000000000009d5d      0x455 src/object/combo.o
+ .debug_loclists
+                0x000000000000a1b2      0x12f src/object/splash.o
+
+.debug_aranges  0x0000000000000000      0xa60
+ .debug_aranges
+                0x0000000000000000       0x28 src/main.o
+ .debug_aranges
+                0x0000000000000028       0x30 src/mem.o
+ .debug_aranges
+                0x0000000000000058       0x30 src/mutil.o
+ .debug_aranges
+                0x0000000000000088       0x48 src/random.o
+ .debug_aranges
+                0x00000000000000d0       0x20 src/archive.o
+ .debug_aranges
+                0x00000000000000f0       0x48 src/font.o
+ .debug_aranges
+                0x0000000000000138       0x40 src/trans.o
+ .debug_aranges
+                0x0000000000000178       0x28 src/loadscr.o
+ .debug_aranges
+                0x00000000000001a0       0x48 src/menu.o
+ .debug_aranges
+                0x00000000000001e8       0x88 src/stage.o
+ .debug_aranges
+                0x0000000000000270       0x28 src/psx/psx.o
+ .debug_aranges
+                0x0000000000000298       0x68 src/psx/io.o
+ .debug_aranges
+                0x0000000000000300       0x90 src/psx/gfx.o
+ .debug_aranges
+                0x0000000000000390       0x80 src/psx/audio.o
+ .debug_aranges
+                0x0000000000000410       0x30 src/psx/pad.o
+ .debug_aranges
+                0x0000000000000440       0x38 src/psx/timer.o
+ .debug_aranges
+                0x0000000000000478       0x28 src/stage/dummy.o
+ .debug_aranges
+                0x00000000000004a0       0x30 src/stage/week1.o
+ .debug_aranges
+                0x00000000000004d0       0x30 src/stage/week2.o
+ .debug_aranges
+                0x0000000000000500       0x38 src/stage/week3.o
+ .debug_aranges
+                0x0000000000000538       0x50 src/stage/week4.o
+ .debug_aranges
+                0x0000000000000588       0x30 src/stage/week5.o
+ .debug_aranges
+                0x00000000000005b8       0x38 src/stage/week7.o
+ .debug_aranges
+                0x00000000000005f0       0x38 src/animation.o
+ .debug_aranges
+                0x0000000000000628       0x48 src/character.o
+ .debug_aranges
+                0x0000000000000670       0x40 src/character/bf.o
+ .debug_aranges
+                0x00000000000006b0       0x40 src/character/bfweeb.o
+ .debug_aranges
+                0x00000000000006f0       0x30 src/character/speaker.o
+ .debug_aranges
+                0x0000000000000720       0x40 src/character/dad.o
+ .debug_aranges
+                0x0000000000000760       0x40 src/character/spook.o
+ .debug_aranges
+                0x00000000000007a0       0x40 src/character/pico.o
+ .debug_aranges
+                0x00000000000007e0       0x40 src/character/mom.o
+ .debug_aranges
+                0x0000000000000820       0x40 src/character/xmasp.o
+ .debug_aranges
+                0x0000000000000860       0x40 src/character/senpai.o
+ .debug_aranges
+                0x00000000000008a0       0x40 src/character/senpaim.o
+ .debug_aranges
+                0x00000000000008e0       0x40 src/character/tank.o
+ .debug_aranges
+                0x0000000000000920       0x40 src/character/gf.o
+ .debug_aranges
+                0x0000000000000960       0x40 src/character/clucky.o
+ .debug_aranges
+                0x00000000000009a0       0x38 src/object.o
+ .debug_aranges
+                0x00000000000009d8       0x38 src/object/combo.o
+ .debug_aranges
+                0x0000000000000a10       0x30 src/object/splash.o
+ .debug_aranges
+                0x0000000000000a40       0x20 mips/common/crt0/crt0.o
+
+.debug_rnglists
+                0x0000000000000000     0x19e1
+ .debug_rnglists
+                0x0000000000000000       0x1a src/main.o
+ .debug_rnglists
+                0x000000000000001a       0x20 src/mem.o
+ .debug_rnglists
+                0x000000000000003a       0x1f src/mutil.o
+ .debug_rnglists
+                0x0000000000000059       0x59 src/random.o
+ .debug_rnglists
+                0x00000000000000b2       0x26 src/archive.o
+ .debug_rnglists
+                0x00000000000000d8       0x70 src/font.o
+ .debug_rnglists
+                0x0000000000000148       0x87 src/trans.o
+ .debug_rnglists
+                0x00000000000001cf       0x1a src/loadscr.o
+ .debug_rnglists
+                0x00000000000001e9      0x322 src/menu.o
+ .debug_rnglists
+                0x000000000000050b      0x7f6 src/stage.o
+ .debug_rnglists
+                0x0000000000000d01       0x19 src/psx/psx.o
+ .debug_rnglists
+                0x0000000000000d1a       0xa2 src/psx/io.o
+ .debug_rnglists
+                0x0000000000000dbc      0x22e src/psx/gfx.o
+ .debug_rnglists
+                0x0000000000000fea      0x1cc src/psx/audio.o
+ .debug_rnglists
+                0x00000000000011b6       0x3b src/psx/pad.o
+ .debug_rnglists
+                0x00000000000011f1       0x40 src/psx/timer.o
+ .debug_rnglists
+                0x0000000000001231       0x19 src/stage/dummy.o
+ .debug_rnglists
+                0x000000000000124a       0x21 src/stage/week1.o
+ .debug_rnglists
+                0x000000000000126b       0x21 src/stage/week2.o
+ .debug_rnglists
+                0x000000000000128c       0x48 src/stage/week3.o
+ .debug_rnglists
+                0x00000000000012d4       0x94 src/stage/week4.o
+ .debug_rnglists
+                0x0000000000001368       0x84 src/stage/week5.o
+ .debug_rnglists
+                0x00000000000013ec       0x27 src/stage/week7.o
+ .debug_rnglists
+                0x0000000000001413       0x39 src/animation.o
+ .debug_rnglists
+                0x000000000000144c       0x41 src/character.o
+ .debug_rnglists
+                0x000000000000148d       0xbb src/character/bf.o
+ .debug_rnglists
+                0x0000000000001548       0xb8 src/character/bfweeb.o
+ .debug_rnglists
+                0x0000000000001600       0x2d src/character/speaker.o
+ .debug_rnglists
+                0x000000000000162d       0x38 src/character/dad.o
+ .debug_rnglists
+                0x0000000000001665       0x39 src/character/spook.o
+ .debug_rnglists
+                0x000000000000169e       0x38 src/character/pico.o
+ .debug_rnglists
+                0x00000000000016d6       0x39 src/character/mom.o
+ .debug_rnglists
+                0x000000000000170f       0x38 src/character/xmasp.o
+ .debug_rnglists
+                0x0000000000001747       0x39 src/character/senpai.o
+ .debug_rnglists
+                0x0000000000001780       0x39 src/character/senpaim.o
+ .debug_rnglists
+                0x00000000000017b9       0x52 src/character/tank.o
+ .debug_rnglists
+                0x000000000000180b       0x47 src/character/gf.o
+ .debug_rnglists
+                0x0000000000001852       0x38 src/character/clucky.o
+ .debug_rnglists
+                0x000000000000188a       0x52 src/object.o
+ .debug_rnglists
+                0x00000000000018dc       0xe4 src/object/combo.o
+ .debug_rnglists
+                0x00000000000019c0       0x21 src/object/splash.o
+
+.debug_line     0x0000000000000000     0xe668
+ .debug_line    0x0000000000000000      0x217 src/main.o
+ .debug_line    0x0000000000000217      0x291 src/mem.o
+ .debug_line    0x00000000000004a8      0x108 src/mutil.o
+ .debug_line    0x00000000000005b0      0x1b9 src/random.o
+ .debug_line    0x0000000000000769      0x164 src/archive.o
+ .debug_line    0x00000000000008cd      0x475 src/font.o
+ .debug_line    0x0000000000000d42      0x361 src/trans.o
+ .debug_line    0x00000000000010a3      0x1c7 src/loadscr.o
+ .debug_line    0x000000000000126a     0x147d src/menu.o
+ .debug_line    0x00000000000026e7     0x2adc src/stage.o
+ .debug_line    0x00000000000051c3       0x6c src/psx/psx.o
+ .debug_line    0x000000000000522f      0x3f0 src/psx/io.o
+ .debug_line    0x000000000000561f     0x12c0 src/psx/gfx.o
+ .debug_line    0x00000000000068df      0x884 src/psx/audio.o
+ .debug_line    0x0000000000007163      0x249 src/psx/pad.o
+ .debug_line    0x00000000000073ac      0x3cf src/psx/timer.o
+ .debug_line    0x000000000000777b      0x11a src/stage/dummy.o
+ .debug_line    0x0000000000007895      0x39a src/stage/week1.o
+ .debug_line    0x0000000000007c2f      0x22a src/stage/week2.o
+ .debug_line    0x0000000000007e59      0x70e src/stage/week3.o
+ .debug_line    0x0000000000008567      0x79d src/stage/week4.o
+ .debug_line    0x0000000000008d04      0x604 src/stage/week5.o
+ .debug_line    0x0000000000009308      0x6c6 src/stage/week7.o
+ .debug_line    0x00000000000099ce      0x231 src/animation.o
+ .debug_line    0x0000000000009bff      0x323 src/character.o
+ .debug_line    0x0000000000009f22      0x96f src/character/bf.o
+ .debug_line    0x000000000000a891      0x8a5 src/character/bfweeb.o
+ .debug_line    0x000000000000b136      0x2e8 src/character/speaker.o
+ .debug_line    0x000000000000b41e      0x302 src/character/dad.o
+ .debug_line    0x000000000000b720      0x3a3 src/character/spook.o
+ .debug_line    0x000000000000bac3      0x302 src/character/pico.o
+ .debug_line    0x000000000000bdc5      0x389 src/character/mom.o
+ .debug_line    0x000000000000c14e      0x316 src/character/xmasp.o
+ .debug_line    0x000000000000c464      0x350 src/character/senpai.o
+ .debug_line    0x000000000000c7b4      0x371 src/character/senpaim.o
+ .debug_line    0x000000000000cb25      0x562 src/character/tank.o
+ .debug_line    0x000000000000d087      0x464 src/character/gf.o
+ .debug_line    0x000000000000d4eb      0x308 src/character/clucky.o
+ .debug_line    0x000000000000d7f3      0x1ac src/object.o
+ .debug_line    0x000000000000d99f      0x8cc src/object/combo.o
+ .debug_line    0x000000000000e26b      0x3a2 src/object/splash.o
+ .debug_line    0x000000000000e60d       0x5b mips/common/crt0/crt0.o
+
+.debug_str      0x0000000000000000     0x3856
+ .debug_str     0x0000000000000000      0x3e3 src/main.o
+                                        0x433 (size before relaxing)
+ .debug_str     0x00000000000003e3       0x8c src/mem.o
+                                        0x25e (size before relaxing)
+ .debug_str     0x000000000000046f       0x43 src/mutil.o
+                                        0x1f9 (size before relaxing)
+ .debug_str     0x00000000000004b2       0x5e src/random.o
+                                        0x220 (size before relaxing)
+ .debug_str     0x0000000000000510       0x44 src/archive.o
+                                        0x21a (size before relaxing)
+ .debug_str     0x0000000000000554      0x181 src/font.o
+                                        0x35e (size before relaxing)
+ .debug_str     0x00000000000006d5       0xd6 src/trans.o
+                                        0x29f (size before relaxing)
+ .debug_str     0x00000000000007ab       0xd0 src/loadscr.o
+                                        0x322 (size before relaxing)
+ .debug_str     0x000000000000087b      0xa98 src/menu.o
+                                       0x1049 (size before relaxing)
+ .debug_str     0x0000000000001313      0x6d5 src/stage.o
+                                       0x13de (size before relaxing)
+ .debug_str     0x00000000000019e8        0xe src/psx/psx.o
+                                        0x1f3 (size before relaxing)
+ .debug_str     0x00000000000019f6       0xca src/psx/io.o
+                                        0x31e (size before relaxing)
+ .debug_str     0x0000000000001ac0      0x1a4 src/psx/gfx.o
+                                        0x4d3 (size before relaxing)
+ .debug_str     0x0000000000001c64      0x2ee src/psx/audio.o
+                                        0x79c (size before relaxing)
+ .debug_str     0x0000000000001f52       0x68 src/psx/pad.o
+                                        0x28c (size before relaxing)
+ .debug_str     0x0000000000001fba      0x115 src/psx/timer.o
+                                        0x320 (size before relaxing)
+ .debug_str     0x00000000000020cf       0x2d src/stage/dummy.o
+                                        0x24a (size before relaxing)
+ .debug_str     0x00000000000020fc       0xe0 src/stage/week1.o
+                                        0x9d0 (size before relaxing)
+ .debug_str     0x00000000000021dc       0x55 src/stage/week2.o
+                                        0x94c (size before relaxing)
+ .debug_str     0x0000000000002231      0x1ad src/stage/week3.o
+                                        0xb7b (size before relaxing)
+ .debug_str     0x00000000000023de      0x1a6 src/stage/week4.o
+                                        0xb6b (size before relaxing)
+ .debug_str     0x0000000000002584      0x141 src/stage/week5.o
+                                        0xa70 (size before relaxing)
+ .debug_str     0x00000000000026c5      0x17a src/stage/week7.o
+                                        0xb1e (size before relaxing)
+ .debug_str     0x000000000000283f       0x2b src/animation.o
+                                        0x281 (size before relaxing)
+ .debug_str     0x000000000000286a       0x74 src/character.o
+                                        0xadb (size before relaxing)
+ .debug_str     0x00000000000028de      0x215 src/character/bf.o
+                                        0xdd0 (size before relaxing)
+ .debug_str     0x0000000000002af3       0xd4 src/character/bfweeb.o
+                                        0xd55 (size before relaxing)
+ .debug_str     0x0000000000002bc7       0x75 src/character/speaker.o
+                                        0x944 (size before relaxing)
+ .debug_str     0x0000000000002c3c       0xcd src/character/dad.o
+                                        0x570 (size before relaxing)
+ .debug_str     0x0000000000002d09      0x11e src/character/spook.o
+                                        0xb69 (size before relaxing)
+ .debug_str     0x0000000000002e27       0xc4 src/character/pico.o
+                                        0x568 (size before relaxing)
+ .debug_str     0x0000000000002eeb      0x12b src/character/mom.o
+                                        0xb87 (size before relaxing)
+ .debug_str     0x0000000000003016      0x233 src/character/xmasp.o
+                                        0x6d8 (size before relaxing)
+ .debug_str     0x0000000000003249       0xce src/character/senpai.o
+                                        0xb08 (size before relaxing)
+ .debug_str     0x0000000000003317       0xdb src/character/senpaim.o
+                                        0xb16 (size before relaxing)
+ .debug_str     0x00000000000033f2      0x180 src/character/tank.o
+                                        0xbda (size before relaxing)
+ .debug_str     0x0000000000003572       0xc9 src/character/gf.o
+                                        0xb67 (size before relaxing)
+ .debug_str     0x000000000000363b      0x119 src/character/clucky.o
+                                        0x5bf (size before relaxing)
+ .debug_str     0x0000000000003754       0x24 src/object.o
+                                        0x239 (size before relaxing)
+ .debug_str     0x0000000000003778       0x7c src/object/combo.o
+                                        0x9ae (size before relaxing)
+ .debug_str     0x00000000000037f4       0x4f src/object/splash.o
+                                        0x960 (size before relaxing)
+ .debug_str     0x0000000000003843       0x13 mips/common/crt0/crt0.o
+                                         0x44 (size before relaxing)
+
+.debug_frame    0x0000000000000000     0x1b5c
+ .debug_frame   0x0000000000000000       0x50 src/main.o
+ .debug_frame   0x0000000000000050       0x40 src/mem.o
+ .debug_frame   0x0000000000000090       0x40 src/mutil.o
+ .debug_frame   0x00000000000000d0       0x70 src/random.o
+ .debug_frame   0x0000000000000140       0x38 src/archive.o
+ .debug_frame   0x0000000000000178       0xf4 src/font.o
+ .debug_frame   0x000000000000026c       0x8c src/trans.o
+ .debug_frame   0x00000000000002f8       0x48 src/loadscr.o
+ .debug_frame   0x0000000000000340       0xfc src/menu.o
+ .debug_frame   0x000000000000043c      0x268 src/stage.o
+ .debug_frame   0x00000000000006a4       0x40 src/psx/psx.o
+ .debug_frame   0x00000000000006e4      0x14c src/psx/io.o
+ .debug_frame   0x0000000000000830      0x1b0 src/psx/gfx.o
+ .debug_frame   0x00000000000009e0      0x18c src/psx/audio.o
+ .debug_frame   0x0000000000000b6c       0x50 src/psx/pad.o
+ .debug_frame   0x0000000000000bbc       0x60 src/psx/timer.o
+ .debug_frame   0x0000000000000c1c       0x40 src/stage/dummy.o
+ .debug_frame   0x0000000000000c5c       0x78 src/stage/week1.o
+ .debug_frame   0x0000000000000cd4       0x60 src/stage/week2.o
+ .debug_frame   0x0000000000000d34       0xa0 src/stage/week3.o
+ .debug_frame   0x0000000000000dd4       0xfc src/stage/week4.o
+ .debug_frame   0x0000000000000ed0       0x80 src/stage/week5.o
+ .debug_frame   0x0000000000000f50       0xac src/stage/week7.o
+ .debug_frame   0x0000000000000ffc       0x78 src/animation.o
+ .debug_frame   0x0000000000001074       0xbc src/character.o
+ .debug_frame   0x0000000000001130       0xd0 src/character/bf.o
+ .debug_frame   0x0000000000001200       0xd0 src/character/bfweeb.o
+ .debug_frame   0x00000000000012d0       0x70 src/character/speaker.o
+ .debug_frame   0x0000000000001340       0x9c src/character/dad.o
+ .debug_frame   0x00000000000013dc       0xa8 src/character/spook.o
+ .debug_frame   0x0000000000001484       0x9c src/character/pico.o
+ .debug_frame   0x0000000000001520       0x9c src/character/mom.o
+ .debug_frame   0x00000000000015bc       0x9c src/character/xmasp.o
+ .debug_frame   0x0000000000001658       0x9c src/character/senpai.o
+ .debug_frame   0x00000000000016f4       0x9c src/character/senpaim.o
+ .debug_frame   0x0000000000001790       0xbc src/character/tank.o
+ .debug_frame   0x000000000000184c       0x9c src/character/gf.o
+ .debug_frame   0x00000000000018e8       0x9c src/character/clucky.o
+ .debug_frame   0x0000000000001984       0x90 src/object.o
+ .debug_frame   0x0000000000001a14       0xc4 src/object/combo.o
+ .debug_frame   0x0000000000001ad8       0x84 src/object/splash.o
+
+.debug_line_str
+                0x0000000000000000       0x18
+ .debug_line_str
+                0x0000000000000000       0x18 mips/common/crt0/crt0.o
+                                         0x30 (size before relaxing)

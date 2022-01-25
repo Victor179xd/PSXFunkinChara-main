@@ -1,0 +1,24 @@
+src/character/speaker.o: src/character/speaker.c src/character/speaker.h \
+ src/character/../gfx.h src/character/../psx.h \
+ C:/Users/H/Pictures/Screenshots/PSXFunkin-master/mips/psyq/include/sys/types.h \
+ C:/Users/H/Pictures/Screenshots/PSXFunkin-master/mips/psyq/include/stdio.h \
+ C:/Users/H/Pictures/Screenshots/PSXFunkin-master/mips/psyq/include/libetc.h \
+ C:/Users/H/Pictures/Screenshots/PSXFunkin-master/mips/psyq/include/libgte.h \
+ C:/Users/H/Pictures/Screenshots/PSXFunkin-master/mips/psyq/include/libgpu.h \
+ C:/Users/H/Pictures/Screenshots/PSXFunkin-master/mips/psyq/include/libspu.h \
+ C:/Users/H/Pictures/Screenshots/PSXFunkin-master/mips/psyq/include/libcd.h \
+ C:/Users/H/Pictures/Screenshots/PSXFunkin-master/mips/psyq/include/libsnd.h \
+ C:/Users/H/Pictures/Screenshots/PSXFunkin-master/mips/psyq/include/libapi.h \
+ C:/Users/H/Pictures/Screenshots/PSXFunkin-master/mips/psyq/include/kernel.h \
+ C:/Users/H/Pictures/Screenshots/PSXFunkin-master/mips/psyq/include/r3000.h \
+ C:/Users/H/Pictures/Screenshots/PSXFunkin-master/mips/psyq/include/asm.h \
+ C:/Users/H/Pictures/Screenshots/PSXFunkin-master/mips/psyq/include/stddef.h \
+ C:/Users/H/Pictures/Screenshots/PSXFunkin-master/mips/psyq/include/string.h \
+ C:/Users/H/Pictures/Screenshots/PSXFunkin-master/mips/psyq/include/strings.h \
+ C:/Users/H/Pictures/Screenshots/PSXFunkin-master/mips/psyq/include/memory.h \
+ src/character/../io.h src/character/../fixed.h src/character/../io.h \
+ src/character/../stage.h src/character/../gfx.h src/character/../pad.h \
+ src/character/../fixed.h src/character/../character.h \
+ src/character/../animation.h src/character/../player.h \
+ src/character/../object.h src/character/../network.h \
+ src/character/../timer.h

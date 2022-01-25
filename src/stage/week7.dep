@@ -1,0 +1,23 @@
+src/stage/week7.o: src/stage/week7.c src/stage/week7.h \
+ src/stage/../stage.h src/stage/../io.h src/stage/../psx.h \
+ C:/Users/H/Pictures/Screenshots/PSXFunkin-master/mips/psyq/include/sys/types.h \
+ C:/Users/H/Pictures/Screenshots/PSXFunkin-master/mips/psyq/include/stdio.h \
+ C:/Users/H/Pictures/Screenshots/PSXFunkin-master/mips/psyq/include/libetc.h \
+ C:/Users/H/Pictures/Screenshots/PSXFunkin-master/mips/psyq/include/libgte.h \
+ C:/Users/H/Pictures/Screenshots/PSXFunkin-master/mips/psyq/include/libgpu.h \
+ C:/Users/H/Pictures/Screenshots/PSXFunkin-master/mips/psyq/include/libspu.h \
+ C:/Users/H/Pictures/Screenshots/PSXFunkin-master/mips/psyq/include/libcd.h \
+ C:/Users/H/Pictures/Screenshots/PSXFunkin-master/mips/psyq/include/libsnd.h \
+ C:/Users/H/Pictures/Screenshots/PSXFunkin-master/mips/psyq/include/libapi.h \
+ C:/Users/H/Pictures/Screenshots/PSXFunkin-master/mips/psyq/include/kernel.h \
+ C:/Users/H/Pictures/Screenshots/PSXFunkin-master/mips/psyq/include/r3000.h \
+ C:/Users/H/Pictures/Screenshots/PSXFunkin-master/mips/psyq/include/asm.h \
+ C:/Users/H/Pictures/Screenshots/PSXFunkin-master/mips/psyq/include/stddef.h \
+ C:/Users/H/Pictures/Screenshots/PSXFunkin-master/mips/psyq/include/string.h \
+ C:/Users/H/Pictures/Screenshots/PSXFunkin-master/mips/psyq/include/strings.h \
+ C:/Users/H/Pictures/Screenshots/PSXFunkin-master/mips/psyq/include/memory.h \
+ src/stage/../gfx.h src/stage/../pad.h src/stage/../fixed.h \
+ src/stage/../character.h src/stage/../animation.h src/stage/../player.h \
+ src/stage/../object.h src/stage/../network.h src/stage/../archive.h \
+ src/stage/../mem.h src/stage/../random.h src/stage/../mutil.h \
+ src/stage/../timer.h
